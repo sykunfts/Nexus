@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-14T23:04:13.973Z",
+  "generatedAt": "2026-10-15T22:57:35.146Z",
   "window": {
-    "from": "2026-09-30",
-    "to": "2026-10-13",
+    "from": "2026-10-01",
+    "to": "2026-10-14",
     "days": 14
   },
   "sources": {
@@ -13,435 +13,435 @@
   },
   "products": {
     "oura-ring-5": {
-      "delta": 33,
-      "label": "Steady",
-      "score": -0.9416193734417001,
+      "delta": 762,
+      "label": "Viral",
+      "score": 0.13388737137886175,
       "confidence": "medium",
       "series": [
-        46,
-        33,
+        17,
+        21,
+        15,
+        17,
+        12,
         100,
-        29,
-        84,
-        31,
-        22,
-        27
+        14,
+        14
       ]
     },
     "ringconn-gen-3": {
-      "delta": 33,
-      "label": "Steady",
-      "score": -0.9416193734417001,
+      "delta": 762,
+      "label": "Viral",
+      "score": 0.13388737137886175,
       "confidence": "medium",
       "series": [
-        46,
-        33,
+        17,
+        21,
+        15,
+        17,
+        12,
         100,
-        29,
-        84,
-        31,
-        22,
-        27
+        14,
+        14
       ]
     },
     "ultrahuman-ring-air": {
-      "delta": 33,
-      "label": "Steady",
-      "score": -0.9416193734417001,
+      "delta": 762,
+      "label": "Viral",
+      "score": 0.13388737137886175,
       "confidence": "medium",
       "series": [
-        46,
-        33,
+        17,
+        21,
+        15,
+        17,
+        12,
         100,
-        29,
-        84,
-        31,
-        22,
-        27
+        14,
+        14
       ]
     },
     "samsung-galaxy-ring": {
-      "delta": 33,
-      "label": "Steady",
-      "score": -0.9416193734417001,
+      "delta": 762,
+      "label": "Viral",
+      "score": 0.13388737137886175,
       "confidence": "medium",
       "series": [
-        46,
-        33,
+        17,
+        21,
+        15,
+        17,
+        12,
         100,
-        29,
-        84,
-        31,
-        22,
-        27
+        14,
+        14
       ]
     },
     "rayban-meta-gen-3": {
-      "delta": -29,
+      "delta": -27,
       "label": "Steady",
-      "score": -0.2701592419348581,
+      "score": -0.3685101109833092,
       "confidence": "medium",
       "series": [
-        100,
-        68,
-        80,
-        71,
-        41,
-        52,
-        52,
-        85
+        72,
+        84,
+        75,
+        43,
+        55,
+        56,
+        88,
+        100
       ]
     },
     "even-realities-g2": {
-      "delta": -29,
+      "delta": -27,
       "label": "Steady",
-      "score": -0.2701592419348581,
+      "score": -0.3685101109833092,
       "confidence": "medium",
       "series": [
-        100,
-        68,
-        80,
-        71,
-        41,
-        52,
-        52,
-        85
+        72,
+        84,
+        75,
+        43,
+        55,
+        56,
+        88,
+        100
       ]
     },
     "xreal-one": {
-      "delta": -29,
+      "delta": -27,
       "label": "Steady",
-      "score": -0.2701592419348581,
+      "score": -0.3685101109833092,
       "confidence": "medium",
       "series": [
-        100,
-        68,
-        80,
-        71,
-        41,
-        52,
-        52,
-        85
+        72,
+        84,
+        75,
+        43,
+        55,
+        56,
+        88,
+        100
       ]
     },
     "meta-ray-ban-display": {
-      "delta": -29,
+      "delta": -27,
       "label": "Steady",
-      "score": -0.2701592419348581,
+      "score": -0.3685101109833092,
       "confidence": "medium",
       "series": [
-        100,
-        68,
-        80,
-        71,
-        41,
-        52,
-        52,
-        85
+        72,
+        84,
+        75,
+        43,
+        55,
+        56,
+        88,
+        100
       ]
     },
     "whoop-5-0": {
-      "delta": 25,
+      "delta": 19,
       "label": "Steady",
-      "score": 1.5472194675068873,
-      "confidence": "low",
+      "score": -0.2178416829391065,
+      "confidence": "medium",
       "series": [
-        31,
-        100,
-        48,
-        83,
-        41,
-        34,
-        38,
-        48
+        22,
+        10,
+        18,
+        9,
+        7,
+        8,
+        10,
+        100
       ]
     },
     "garmin-index-sleep-monitor": {
-      "delta": 25,
+      "delta": 19,
       "label": "Steady",
-      "score": 1.5472194675068873,
-      "confidence": "low",
+      "score": -0.2178416829391065,
+      "confidence": "medium",
       "series": [
-        31,
-        100,
-        48,
-        83,
-        41,
-        34,
-        38,
-        48
+        22,
+        10,
+        18,
+        9,
+        7,
+        8,
+        10,
+        100
       ]
     },
     "withings-scanwatch-2": {
-      "delta": 4,
+      "delta": 1,
       "label": "Steady",
-      "score": 0.13616935515328366,
+      "score": 0.20302614122363682,
       "confidence": "low",
       "series": [
-        85,
         100,
         96,
         89,
         77,
         74,
         84,
-        77
+        77,
+        96
       ]
     },
     "bee-pioneer": {
-      "delta": 80,
+      "delta": 94,
       "label": "Rising",
-      "score": 0.6837840745481258,
+      "score": 1.0686321339345848,
       "confidence": "medium",
       "series": [
-        17,
-        21,
-        89,
-        18,
-        100,
+        24,
+        92,
         20,
-        21,
+        100,
+        24,
+        24,
+        58,
         26
       ]
     },
     "bose-ultra-open-2": {
-      "delta": -10,
+      "delta": -13,
       "label": "Steady",
-      "score": -0.8086536412541958,
+      "score": -0.915572009445241,
       "confidence": "low",
       "series": [
-        88,
         100,
         81,
         86,
         68,
         65,
         94,
-        79
+        79,
+        90
       ]
     },
     "sony-linkbuds-open": {
-      "delta": -10,
+      "delta": -13,
       "label": "Steady",
-      "score": -0.8086536412541958,
+      "score": -0.915572009445241,
       "confidence": "low",
       "series": [
-        88,
         100,
         81,
         86,
         68,
         65,
         94,
-        79
+        79,
+        90
       ]
     },
     "shokz-openfit-2-plus": {
-      "delta": -10,
+      "delta": -13,
       "label": "Steady",
-      "score": -0.8086536412541958,
+      "score": -0.915572009445241,
       "confidence": "low",
       "series": [
-        88,
         100,
         81,
         86,
         68,
         65,
         94,
-        79
+        79,
+        90
       ]
     },
     "nothing-ear-open": {
-      "delta": -10,
+      "delta": -13,
       "label": "Steady",
-      "score": -0.8086536412541958,
+      "score": -0.915572009445241,
       "confidence": "low",
       "series": [
-        88,
         100,
         81,
         86,
         68,
         65,
         94,
-        79
+        79,
+        90
       ]
     },
     "marshall-emberton-iii": {
-      "delta": 30,
+      "delta": 10,
       "label": "Steady",
-      "score": 1.8702803776768218,
+      "score": 0.855279038308459,
       "confidence": "low",
       "series": [
-        48,
         75,
         35,
         100,
         55,
         45,
         28,
-        40
+        40,
+        43
       ]
     },
     "jbl-flip-7": {
-      "delta": 30,
+      "delta": 10,
       "label": "Steady",
-      "score": 1.8702803776768218,
+      "score": 0.855279038308459,
       "confidence": "low",
       "series": [
-        48,
         75,
         35,
         100,
         55,
         45,
         28,
-        40
+        40,
+        43
       ]
     },
     "aqara-camera-e1": {
-      "delta": -2,
+      "delta": -6,
       "label": "Steady",
-      "score": -0.26149896651282,
+      "score": -0.38786789007315453,
       "confidence": "low",
       "series": [
-        80,
         91,
         80,
         73,
         66,
         53,
         100,
-        70
+        70,
+        64
       ]
     },
     "tp-link-tapo-c120": {
-      "delta": -2,
+      "delta": -6,
       "label": "Steady",
-      "score": -0.26149896651282,
+      "score": -0.38786789007315453,
       "confidence": "low",
       "series": [
-        80,
         91,
         80,
         73,
         66,
         53,
         100,
-        70
+        70,
+        64
       ]
     },
     "nanoleaf-matter-strip-5m": {
-      "delta": -5,
+      "delta": 0,
       "label": "Steady",
-      "score": -0.4713862227469877,
+      "score": 0.09643228255607834,
       "confidence": "low",
       "series": [
-        85,
+        68,
         77,
-        87,
-        74,
-        82,
-        90,
-        82,
+        66,
+        73,
+        80,
+        73,
+        89,
         100
       ]
     },
     "govee-rgbic-neon-rope-light-2": {
-      "delta": -5,
+      "delta": 0,
       "label": "Steady",
-      "score": -0.4713862227469877,
+      "score": 0.09643228255607834,
       "confidence": "low",
       "series": [
-        85,
+        68,
         77,
-        87,
-        74,
-        82,
-        90,
-        82,
+        66,
+        73,
+        80,
+        73,
+        89,
         100
       ]
     },
     "nanoleaf-blocks-starter-kit": {
-      "delta": -5,
+      "delta": 0,
       "label": "Steady",
-      "score": -0.4713862227469877,
+      "score": 0.09643228255607834,
       "confidence": "low",
       "series": [
-        85,
+        68,
         77,
-        87,
-        74,
-        82,
-        90,
-        82,
+        66,
+        73,
+        80,
+        73,
+        89,
         100
       ]
     },
     "philips-hue-play-hdmi-sync-box-8k": {
-      "delta": -5,
+      "delta": 0,
       "label": "Steady",
-      "score": -0.4713862227469877,
+      "score": 0.09643228255607834,
       "confidence": "low",
       "series": [
-        85,
+        68,
         77,
-        87,
-        74,
-        82,
-        90,
-        82,
+        66,
+        73,
+        80,
+        73,
+        89,
         100
       ]
     },
     "eufy-x10-pro-omni": {
-      "delta": -13,
+      "delta": 5,
       "label": "Steady",
-      "score": -0.21174569515287447,
+      "score": -0.10660510413629071,
       "confidence": "medium",
       "series": [
-        40,
-        34,
-        37,
-        39,
-        40,
-        44,
-        37,
-        100
+        29,
+        29,
+        32,
+        32,
+        35,
+        29,
+        100,
+        30
       ]
     },
     "dreame-x50-ultra": {
-      "delta": -13,
+      "delta": 5,
       "label": "Steady",
-      "score": -0.21174569515287447,
+      "score": -0.10660510413629071,
       "confidence": "medium",
       "series": [
-        40,
-        34,
-        37,
-        39,
-        40,
-        44,
-        37,
-        100
+        29,
+        29,
+        32,
+        32,
+        35,
+        29,
+        100,
+        30
       ]
     },
     "roborock-saros-10": {
-      "delta": -13,
+      "delta": 5,
       "label": "Steady",
-      "score": -0.21174569515287447,
+      "score": -0.10660510413629071,
       "confidence": "medium",
       "series": [
-        40,
-        34,
-        37,
-        39,
-        40,
-        44,
-        37,
-        100
+        29,
+        29,
+        32,
+        32,
+        35,
+        29,
+        100,
+        30
       ]
     },
     "ecovacs-winbot-w2-pro-omni": {
@@ -461,579 +461,579 @@
       ]
     },
     "switchbot-lock-ultra": {
-      "delta": 46,
-      "label": "Steady",
-      "score": -0.3731478559425926,
+      "delta": 139,
+      "label": "Trending",
+      "score": -0.22821009415199917,
       "confidence": "medium",
       "series": [
-        79,
-        29,
-        33,
-        20,
-        24,
-        100,
+        44,
+        52,
         32,
-        73
+        35,
+        100,
+        90,
+        76,
+        97
       ]
     },
     "aqara-smart-lock-u300": {
-      "delta": 46,
-      "label": "Steady",
-      "score": -0.3731478559425926,
+      "delta": 139,
+      "label": "Trending",
+      "score": -0.22821009415199917,
       "confidence": "medium",
       "series": [
-        79,
-        29,
-        33,
-        20,
-        24,
-        100,
+        44,
+        52,
         32,
-        73
+        35,
+        100,
+        90,
+        76,
+        97
       ]
     },
     "aqara-hub-m3": {
-      "delta": 999,
+      "delta": 301,
       "label": "Viral",
-      "score": 1.2105127121031978,
+      "score": 1.441141018557913,
       "confidence": "medium",
       "series": [
         15,
-        14,
         100,
         13,
-        12,
         13,
-        19,
-        29
+        13,
+        20,
+        30,
+        22
       ]
     },
     "switchbot-hub-3": {
-      "delta": 999,
+      "delta": 301,
       "label": "Viral",
-      "score": 1.2105127121031978,
+      "score": 1.441141018557913,
       "confidence": "medium",
       "series": [
         15,
-        14,
         100,
         13,
-        12,
         13,
-        19,
-        29
+        13,
+        20,
+        30,
+        22
       ]
     },
     "xgimi-mogo-4-laser": {
-      "delta": 360,
+      "delta": 266,
       "label": "Viral",
-      "score": 0.8156045443519299,
+      "score": -0.34283483324480885,
       "confidence": "medium",
       "series": [
-        9,
-        26,
+        27,
         100,
         12,
         8,
         4,
-        7,
+        8,
+        17,
         16
       ]
     },
     "anker-nebula-capsule-3-laser": {
-      "delta": 360,
+      "delta": 266,
       "label": "Viral",
-      "score": 0.8156045443519299,
+      "score": -0.34283483324480885,
       "confidence": "medium",
       "series": [
-        9,
-        26,
+        27,
         100,
         12,
         8,
         4,
-        7,
+        8,
+        17,
         16
       ]
     },
     "dangbei-atom": {
-      "delta": 360,
+      "delta": 266,
       "label": "Viral",
-      "score": 0.8156045443519299,
+      "score": -0.34283483324480885,
       "confidence": "medium",
       "series": [
-        9,
-        26,
+        27,
         100,
         12,
         8,
         4,
-        7,
+        8,
+        17,
         16
       ]
     },
     "xgimi-vibe-one": {
-      "delta": -21,
-      "label": "Steady",
-      "score": -2.0418038120383466,
+      "delta": 279,
+      "label": "Viral",
+      "score": -1.8537580011685089,
       "confidence": "medium",
       "series": [
-        30,
-        14,
-        14,
-        12,
-        14,
-        12,
-        14,
+        11,
+        11,
+        13,
+        11,
+        9,
+        11,
+        22,
         100
       ]
     },
     "samsung-the-freestyle-plus-2026": {
-      "delta": -21,
-      "label": "Steady",
-      "score": -2.0418038120383466,
+      "delta": 279,
+      "label": "Viral",
+      "score": -1.8537580011685089,
       "confidence": "medium",
       "series": [
-        30,
-        14,
-        14,
-        12,
-        14,
-        12,
-        14,
+        11,
+        11,
+        13,
+        11,
+        9,
+        11,
+        22,
         100
       ]
     },
     "elite-yard-master-2-100": {
-      "delta": 2,
+      "delta": 31,
       "label": "Steady",
-      "score": 1.2244395186558579,
+      "score": 0.25480475177402556,
       "confidence": "medium",
       "series": [
-        41,
         100,
-        62,
-        28,
         47,
-        45,
-        33,
-        37
+        22,
+        100,
+        82,
+        25,
+        29,
+        25
       ]
     },
     "anker-maggo-10k": {
-      "delta": -9,
+      "delta": 3,
       "label": "Steady",
-      "score": -0.7136070226889156,
+      "score": 0.3534610224076911,
       "confidence": "low",
       "series": [
-        40,
         40,
         70,
         60,
         85,
         50,
         50,
-        100
+        100,
+        65
       ]
     },
     "anker-prime-26k-300w-power-bank": {
-      "delta": -9,
+      "delta": 3,
       "label": "Steady",
-      "score": -0.7136070226889156,
+      "score": 0.3534610224076911,
       "confidence": "low",
       "series": [
-        40,
         40,
         70,
         60,
         85,
         50,
         50,
-        100
+        100,
+        65
       ]
     },
     "anker-prime-100w": {
-      "delta": 999,
+      "delta": 470,
       "label": "Viral",
-      "score": 0.977021995589199,
+      "score": 0.4306002278169176,
       "confidence": "medium",
       "series": [
+        23,
+        97,
         21,
         20,
+        19,
+        36,
         100,
-        18,
-        18,
-        17,
-        23,
-        99
+        22
       ]
     },
     "ugreen-nexode-100w-3-port": {
-      "delta": 999,
+      "delta": 470,
       "label": "Viral",
-      "score": 0.977021995589199,
+      "score": 0.4306002278169176,
       "confidence": "medium",
       "series": [
+        23,
+        97,
         21,
         20,
+        19,
+        36,
         100,
-        18,
-        18,
-        17,
-        23,
-        99
+        22
       ]
     },
     "belkin-boostcharge-pro-3-in-1-qi2-pad": {
-      "delta": -4,
+      "delta": -3,
       "label": "Steady",
-      "score": -0.3889207068166895,
+      "score": -0.11625230621436429,
       "confidence": "low",
       "series": [
-        98,
         84,
         90,
         88,
         66,
         68,
         100,
-        95
+        95,
+        90
       ]
     },
     "esr-halolock-ring": {
-      "delta": -4,
+      "delta": -3,
       "label": "Steady",
-      "score": -0.3889207068166895,
+      "score": -0.11625230621436429,
       "confidence": "low",
       "series": [
-        98,
         84,
         90,
         88,
         66,
         68,
         100,
-        95
+        95,
+        90
       ]
     },
     "sansai-au-travel-adapter": {
-      "delta": -1,
+      "delta": 0,
       "label": "Steady",
-      "score": -0.19102570713934003,
+      "score": 0.058419550820801386,
       "confidence": "low",
       "series": [
-        89,
         95,
         100,
         81,
         75,
         77,
         99,
-        90
+        90,
+        94
       ]
     },
     "segway-e3-pro": {
-      "delta": -13,
+      "delta": -21,
       "label": "Steady",
-      "score": -0.2036015525281242,
+      "score": -0.8125436559690135,
       "confidence": "medium",
       "series": [
-        50,
         80,
         40,
         70,
         100,
         70,
         40,
+        50,
         50
       ]
     },
     "niu-kqi-300x": {
-      "delta": -13,
+      "delta": -21,
       "label": "Steady",
-      "score": -0.2036015525281242,
+      "score": -0.8125436559690135,
       "confidence": "medium",
       "series": [
-        50,
         80,
         40,
         70,
         100,
         70,
         40,
+        50,
         50
       ]
     },
     "segway-ninebot-kickscooter-f3": {
-      "delta": -13,
+      "delta": -21,
       "label": "Steady",
-      "score": -0.2036015525281242,
+      "score": -0.8125436559690135,
       "confidence": "medium",
       "series": [
-        50,
         80,
         40,
         70,
         100,
         70,
         40,
+        50,
         50
       ]
     },
     "omnilux-contour-face": {
-      "delta": -22,
+      "delta": -17,
       "label": "Steady",
-      "score": 0.5067632950341887,
+      "score": 0.31547310576193177,
       "confidence": "medium",
       "series": [
-        72,
-        68,
-        60,
-        73,
         100,
-        66,
-        64,
-        63
+        37,
+        44,
+        60,
+        40,
+        37,
+        37,
+        95
       ]
     },
     "therabody-theraface-mask": {
-      "delta": -22,
+      "delta": -17,
       "label": "Steady",
-      "score": 0.5067632950341887,
+      "score": 0.31547310576193177,
       "confidence": "medium",
       "series": [
-        72,
-        68,
-        60,
-        73,
         100,
-        66,
-        64,
-        63
+        37,
+        44,
+        60,
+        40,
+        37,
+        37,
+        95
       ]
     },
     "currentbody-skin-led-mask-series-3": {
-      "delta": -22,
+      "delta": -17,
       "label": "Steady",
-      "score": 0.5067632950341887,
+      "score": 0.31547310576193177,
       "confidence": "medium",
       "series": [
-        72,
-        68,
-        60,
-        73,
         100,
-        66,
-        64,
-        63
+        37,
+        44,
+        60,
+        40,
+        37,
+        37,
+        95
       ]
     },
     "shark-cryoglow": {
-      "delta": -22,
+      "delta": -17,
       "label": "Steady",
-      "score": 0.5067632950341887,
+      "score": 0.31547310576193177,
       "confidence": "medium",
       "series": [
-        72,
-        68,
-        60,
-        73,
         100,
-        66,
-        64,
-        63
+        37,
+        44,
+        60,
+        40,
+        37,
+        37,
+        95
       ]
     },
     "withings-body-smart": {
-      "delta": -1,
+      "delta": 8,
       "label": "Steady",
-      "score": -0.15395078099687756,
-      "confidence": "low",
-      "series": [
-        100,
-        92,
-        90,
-        74,
-        66,
-        85,
-        81,
-        89
-      ]
-    },
-    "hyperice-normatec-elite": {
-      "delta": -9,
-      "label": "Steady",
-      "score": -0.011136348394264611,
+      "score": -0.07088834910241354,
       "confidence": "medium",
       "series": [
-        28,
-        28,
-        35,
-        32,
-        33,
-        30,
-        37,
+        14,
+        13,
+        11,
+        10,
+        13,
+        12,
+        13,
         100
       ]
     },
-    "bambu-a1-mini": {
-      "delta": -5,
+    "hyperice-normatec-elite": {
+      "delta": -1,
       "label": "Steady",
-      "score": -0.4505430997386836,
+      "score": 0.3480802376470682,
+      "confidence": "medium",
+      "series": [
+        28,
+        34,
+        31,
+        32,
+        29,
+        36,
+        100,
+        44
+      ]
+    },
+    "bambu-a1-mini": {
+      "delta": -4,
+      "label": "Steady",
+      "score": -0.23281940898937611,
       "confidence": "low",
       "series": [
-        92,
         95,
         94,
         92,
         73,
         74,
         100,
-        99
+        99,
+        97
       ]
     },
     "creality-k2": {
-      "delta": -5,
+      "delta": -4,
       "label": "Steady",
-      "score": -0.4505430997386836,
+      "score": -0.23281940898937611,
       "confidence": "low",
       "series": [
-        92,
         95,
         94,
         92,
         73,
         74,
         100,
-        99
+        99,
+        97
       ]
     },
     "flipper-zero": {
-      "delta": -1,
+      "delta": 0,
       "label": "Steady",
-      "score": -0.1634029657156128,
+      "score": 0.0756283897743551,
       "confidence": "low",
       "series": [
-        81,
-        100,
-        71,
-        89,
-        85,
-        100,
-        84,
-        89
+        92,
+        66,
+        82,
+        79,
+        92,
+        78,
+        82,
+        100
       ]
     },
     "raspberry-pi-5-desktop-kit-8gb": {
-      "delta": -1,
+      "delta": 0,
       "label": "Steady",
-      "score": -0.1634029657156128,
+      "score": 0.0756283897743551,
       "confidence": "low",
       "series": [
-        81,
-        100,
-        71,
-        89,
-        85,
-        100,
-        84,
-        89
+        92,
+        66,
+        82,
+        79,
+        92,
+        78,
+        82,
+        100
       ]
     },
     "plaud-notepin-s": {
-      "delta": -25,
+      "delta": -19,
       "label": "Steady",
-      "score": -0.6736997100103507,
+      "score": -0.4149982983080476,
       "confidence": "medium",
       "series": [
+        26,
+        42,
+        37,
+        39,
+        28,
+        36,
         100,
-        13,
-        21,
-        18,
-        19,
-        14,
-        18,
-        50
+        42
       ]
     },
     "plaud-note-pro": {
-      "delta": -25,
+      "delta": -19,
       "label": "Steady",
-      "score": -0.6736997100103507,
+      "score": -0.4149982983080476,
       "confidence": "medium",
       "series": [
+        26,
+        42,
+        37,
+        39,
+        28,
+        36,
         100,
-        13,
-        21,
-        18,
-        19,
-        14,
-        18,
-        50
+        42
       ]
     },
     "dji-osmo-pocket-3": {
-      "delta": 75,
-      "label": "Rising",
-      "score": -0.5593437850167489,
+      "delta": 295,
+      "label": "Viral",
+      "score": -0.03613401171396724,
       "confidence": "medium",
       "series": [
-        19,
-        17,
-        17,
+        21,
+        21,
         23,
-        16,
-        14,
-        100,
-        20
+        20,
+        18,
+        68,
+        22,
+        100
       ]
     },
     "insta360-x5": {
-      "delta": 20,
+      "delta": 28,
       "label": "Steady",
-      "score": 1.1902526124710744,
+      "score": 2.3252129637868473,
       "confidence": "low",
       "series": [
-        73,
         54,
         65,
         62,
         84,
         46,
         62,
-        100
+        100,
+        76
       ]
     },
     "keychron-k2-he": {
-      "delta": 11,
+      "delta": -40,
       "label": "Steady",
-      "score": -0.34314794870470916,
+      "score": -0.770177288264045,
       "confidence": "medium",
       "series": [
-        52,
         100,
         18,
         17,
         13,
         13,
         19,
-        18
+        18,
+        17
       ]
     },
     "chipolo-pop": {
-      "delta": 28,
+      "delta": 31,
       "label": "Steady",
-      "score": -0.5493426165832271,
+      "score": -0.31341593299361326,
       "confidence": "medium",
       "series": [
-        26,
         0,
-        39,
+        44,
         0,
         100,
-        13,
-        13,
-        26
+        15,
+        15,
+        29,
+        0
       ]
     }
   },
@@ -1042,30 +1042,30 @@
       "id": "smart-ring",
       "label": "Smart rings",
       "section": "Wearables",
-      "delta": 33,
-      "trendLabel": "Steady",
-      "score": -0.9416193734417001,
+      "delta": 762,
+      "trendLabel": "Viral",
+      "score": 0.13388737137886175,
       "confidence": "medium",
       "series": [
-        46,
-        33,
+        17,
+        21,
+        15,
+        17,
+        12,
         100,
-        29,
-        84,
-        31,
-        22,
-        27
+        14,
+        14
       ],
       "sources": {
         "wikipedia": {
-          "last7": 338,
-          "prior7": 407,
-          "growth": -0.16953316953316952
+          "last7": 325,
+          "prior7": 395,
+          "growth": -0.17721518987341772
         },
         "hackernews": {
-          "last7": 14,
-          "prior7": 6,
-          "growth": 1.3333333333333333
+          "last7": 120,
+          "prior7": 4,
+          "growth": 23.2
         },
         "reddit": null,
         "tiwib": null
@@ -1075,30 +1075,30 @@
       "id": "smart-glasses",
       "label": "Smart glasses",
       "section": "Wearables",
-      "delta": -29,
+      "delta": -27,
       "trendLabel": "Steady",
-      "score": -0.2701592419348581,
+      "score": -0.3685101109833092,
       "confidence": "medium",
       "series": [
-        100,
-        68,
-        80,
-        71,
-        41,
-        52,
-        52,
-        85
+        72,
+        84,
+        75,
+        43,
+        55,
+        56,
+        88,
+        100
       ],
       "sources": {
         "wikipedia": {
-          "last7": 1339,
-          "prior7": 1359,
-          "growth": -0.014716703458425313
+          "last7": 1354,
+          "prior7": 1400,
+          "growth": -0.032857142857142856
         },
         "hackernews": {
-          "last7": 65,
+          "last7": 91,
           "prior7": 373,
-          "growth": -0.8257372654155496
+          "growth": -0.7560321715817694
         },
         "reddit": null,
         "tiwib": null
@@ -1108,27 +1108,31 @@
       "id": "fitness-band",
       "label": "Fitness bands",
       "section": "Wearables",
-      "delta": 25,
+      "delta": 19,
       "trendLabel": "Steady",
-      "score": 1.5472194675068873,
-      "confidence": "low",
+      "score": -0.2178416829391065,
+      "confidence": "medium",
       "series": [
-        31,
-        100,
-        48,
-        83,
-        41,
-        34,
-        38,
-        48
+        22,
+        10,
+        18,
+        9,
+        7,
+        8,
+        10,
+        100
       ],
       "sources": {
         "wikipedia": {
-          "last7": 114,
-          "prior7": 91,
-          "growth": 0.25274725274725274
+          "last7": 109,
+          "prior7": 111,
+          "growth": -0.018018018018018018
         },
-        "hackernews": null,
+        "hackernews": {
+          "last7": 3,
+          "prior7": 0,
+          "growth": 0.6
+        },
         "reddit": null,
         "tiwib": null
       }
@@ -1137,25 +1141,25 @@
       "id": "smartwatch",
       "label": "Health watches",
       "section": "Wearables",
-      "delta": 4,
+      "delta": 1,
       "trendLabel": "Steady",
-      "score": 0.13616935515328366,
+      "score": 0.20302614122363682,
       "confidence": "low",
       "series": [
-        85,
         100,
         96,
         89,
         77,
         74,
         84,
-        77
+        77,
+        96
       ],
       "sources": {
         "wikipedia": {
-          "last7": 1525,
-          "prior7": 1468,
-          "growth": 0.0388283378746594
+          "last7": 1515,
+          "prior7": 1495,
+          "growth": 0.013377926421404682
         },
         "hackernews": null,
         "reddit": null,
@@ -1166,30 +1170,30 @@
       "id": "ai-wearable",
       "label": "AI wearables",
       "section": "Wearables",
-      "delta": 80,
+      "delta": 94,
       "trendLabel": "Rising",
-      "score": 0.6837840745481258,
+      "score": 1.0686321339345848,
       "confidence": "medium",
       "series": [
-        17,
-        21,
-        89,
-        18,
-        100,
+        24,
+        92,
         20,
-        21,
+        100,
+        24,
+        24,
+        58,
         26
       ],
       "sources": {
         "wikipedia": {
-          "last7": 848,
-          "prior7": 707,
-          "growth": 0.19943422913719944
+          "last7": 854,
+          "prior7": 708,
+          "growth": 0.2062146892655367
         },
         "hackernews": {
-          "last7": 10,
+          "last7": 12,
           "prior7": 0,
-          "growth": 2
+          "growth": 2.4
         },
         "reddit": null,
         "tiwib": null
@@ -1199,25 +1203,25 @@
       "id": "open-ear-buds",
       "label": "Open-ear buds",
       "section": "Audio",
-      "delta": -10,
+      "delta": -13,
       "trendLabel": "Steady",
-      "score": -0.8086536412541958,
+      "score": -0.915572009445241,
       "confidence": "low",
       "series": [
-        88,
         100,
         81,
         86,
         68,
         65,
         94,
-        79
+        79,
+        90
       ],
       "sources": {
         "wikipedia": {
-          "last7": 2153,
-          "prior7": 2404,
-          "growth": -0.10440931780366057
+          "last7": 2117,
+          "prior7": 2425,
+          "growth": -0.12701030927835052
         },
         "hackernews": null,
         "reddit": null,
@@ -1228,25 +1232,25 @@
       "id": "portable-speaker",
       "label": "Portable speakers",
       "section": "Audio",
-      "delta": 30,
+      "delta": 10,
       "trendLabel": "Steady",
-      "score": 1.8702803776768218,
+      "score": 0.855279038308459,
       "confidence": "low",
       "series": [
-        48,
         75,
         35,
         100,
         55,
         45,
         28,
-        40
+        40,
+        43
       ],
       "sources": {
         "wikipedia": {
-          "last7": 151,
-          "prior7": 116,
-          "growth": 0.3017241379310345
+          "last7": 138,
+          "prior7": 126,
+          "growth": 0.09523809523809523
         },
         "hackernews": null,
         "reddit": null,
@@ -1257,25 +1261,25 @@
       "id": "indoor-camera",
       "label": "Indoor cameras",
       "section": "Smart home",
-      "delta": -2,
+      "delta": -6,
       "trendLabel": "Steady",
-      "score": -0.26149896651282,
+      "score": -0.38786789007315453,
       "confidence": "low",
       "series": [
-        80,
         91,
         80,
         73,
         66,
         53,
         100,
-        70
+        70,
+        64
       ],
       "sources": {
         "wikipedia": {
-          "last7": 684,
-          "prior7": 699,
-          "growth": -0.02145922746781116
+          "last7": 649,
+          "prior7": 691,
+          "growth": -0.060781476121562955
         },
         "hackernews": null,
         "reddit": null,
@@ -1286,25 +1290,25 @@
       "id": "light-strip",
       "label": "Smart lighting",
       "section": "Smart home",
-      "delta": -5,
+      "delta": 0,
       "trendLabel": "Steady",
-      "score": -0.4713862227469877,
+      "score": 0.09643228255607834,
       "confidence": "low",
       "series": [
-        85,
+        68,
         77,
-        87,
-        74,
-        82,
-        90,
-        82,
+        66,
+        73,
+        80,
+        73,
+        89,
         100
       ],
       "sources": {
         "wikipedia": {
-          "last7": 231,
-          "prior7": 244,
-          "growth": -0.05327868852459016
+          "last7": 245,
+          "prior7": 245,
+          "growth": 0
         },
         "hackernews": null,
         "reddit": null,
@@ -1315,30 +1319,30 @@
       "id": "robot-vacuum",
       "label": "Robot vacuums",
       "section": "Smart home",
-      "delta": -13,
+      "delta": 5,
       "trendLabel": "Steady",
-      "score": -0.21174569515287447,
+      "score": -0.10660510413629071,
       "confidence": "medium",
       "series": [
-        40,
-        34,
-        37,
-        39,
-        40,
-        44,
-        37,
-        100
+        29,
+        29,
+        32,
+        32,
+        35,
+        29,
+        100,
+        30
       ],
       "sources": {
         "wikipedia": {
           "last7": 537,
-          "prior7": 538,
-          "growth": -0.0018587360594795538
+          "prior7": 533,
+          "growth": 0.0075046904315197
         },
         "hackernews": {
-          "last7": 71,
-          "prior7": 117,
-          "growth": -0.39316239316239315
+          "last7": 73,
+          "prior7": 64,
+          "growth": 0.140625
         },
         "reddit": null,
         "tiwib": null
@@ -1373,30 +1377,30 @@
       "id": "smart-lock",
       "label": "Smart locks",
       "section": "Smart home",
-      "delta": 46,
-      "trendLabel": "Steady",
-      "score": -0.3731478559425926,
+      "delta": 139,
+      "trendLabel": "Trending",
+      "score": -0.22821009415199917,
       "confidence": "medium",
       "series": [
-        79,
-        29,
-        33,
-        20,
-        24,
-        100,
+        44,
+        52,
         32,
-        73
+        35,
+        100,
+        90,
+        76,
+        97
       ],
       "sources": {
         "wikipedia": {
-          "last7": 309,
-          "prior7": 322,
-          "growth": -0.040372670807453416
+          "last7": 282,
+          "prior7": 299,
+          "growth": -0.056856187290969896
         },
         "hackernews": {
-          "last7": 279,
+          "last7": 604,
           "prior7": 114,
-          "growth": 1.4473684210526316
+          "growth": 4.298245614035087
         },
         "reddit": null,
         "tiwib": null
@@ -1406,30 +1410,30 @@
       "id": "matter-hub",
       "label": "Matter hubs",
       "section": "Smart home",
-      "delta": 999,
+      "delta": 301,
       "trendLabel": "Viral",
-      "score": 1.2105127121031978,
+      "score": 1.441141018557913,
       "confidence": "medium",
       "series": [
         15,
-        14,
         100,
         13,
-        12,
         13,
-        19,
-        29
+        13,
+        20,
+        30,
+        22
       ],
       "sources": {
         "wikipedia": {
-          "last7": 2356,
-          "prior7": 2049,
-          "growth": 0.1498291849682772
+          "last7": 2503,
+          "prior7": 2061,
+          "growth": 0.21445900048520136
         },
         "hackernews": {
-          "last7": 873,
-          "prior7": 2,
-          "growth": 174.2
+          "last7": 874,
+          "prior7": 91,
+          "growth": 8.604395604395604
         },
         "reddit": null,
         "tiwib": null
@@ -1439,30 +1443,30 @@
       "id": "laser-projector",
       "label": "Laser projectors",
       "section": "Home cinema",
-      "delta": 360,
+      "delta": 266,
       "trendLabel": "Viral",
-      "score": 0.8156045443519299,
+      "score": -0.34283483324480885,
       "confidence": "medium",
       "series": [
-        9,
-        26,
+        27,
         100,
         12,
         8,
         4,
-        7,
+        8,
+        17,
         16
       ],
       "sources": {
         "wikipedia": {
-          "last7": 392,
-          "prior7": 321,
-          "growth": 0.22118380062305296
+          "last7": 338,
+          "prior7": 383,
+          "growth": -0.1174934725848564
         },
         "hackernews": {
-          "last7": 125,
-          "prior7": 11,
-          "growth": 10.363636363636363
+          "last7": 129,
+          "prior7": 14,
+          "growth": 8.214285714285714
         },
         "reddit": null,
         "tiwib": null
@@ -1472,30 +1476,30 @@
       "id": "battery-projector",
       "label": "Battery projectors",
       "section": "Home cinema",
-      "delta": -21,
-      "trendLabel": "Steady",
-      "score": -2.0418038120383466,
+      "delta": 279,
+      "trendLabel": "Viral",
+      "score": -1.8537580011685089,
       "confidence": "medium",
       "series": [
-        30,
-        14,
-        14,
-        12,
-        14,
-        12,
-        14,
+        11,
+        11,
+        13,
+        11,
+        9,
+        11,
+        22,
         100
       ],
       "sources": {
         "wikipedia": {
           "last7": 50,
-          "prior7": 86,
-          "growth": -0.4186046511627907
+          "prior7": 85,
+          "growth": -0.4117647058823529
         },
         "hackernews": {
-          "last7": 3,
+          "last7": 48,
           "prior7": 2,
-          "growth": 0.2
+          "growth": 9.2
         },
         "reddit": null,
         "tiwib": null
@@ -1505,30 +1509,30 @@
       "id": "projector-screen",
       "label": "Projector screens",
       "section": "Home cinema",
-      "delta": 2,
+      "delta": 31,
       "trendLabel": "Steady",
-      "score": 1.2244395186558579,
+      "score": 0.25480475177402556,
       "confidence": "medium",
       "series": [
-        41,
         100,
-        62,
-        28,
         47,
-        45,
-        33,
-        37
+        22,
+        100,
+        82,
+        25,
+        29,
+        25
       ],
       "sources": {
         "wikipedia": {
-          "last7": 473,
-          "prior7": 357,
-          "growth": 0.32492997198879553
+          "last7": 434,
+          "prior7": 406,
+          "growth": 0.06896551724137931
         },
         "hackernews": {
-          "last7": 18,
-          "prior7": 44,
-          "growth": -0.5909090909090909
+          "last7": 7,
+          "prior7": 3,
+          "growth": 0.8
         },
         "reddit": null,
         "tiwib": null
@@ -1538,25 +1542,25 @@
       "id": "qi2-power-bank",
       "label": "Qi2 power banks",
       "section": "Power",
-      "delta": -9,
+      "delta": 3,
       "trendLabel": "Steady",
-      "score": -0.7136070226889156,
+      "score": 0.3534610224076911,
       "confidence": "low",
       "series": [
-        40,
         40,
         70,
         60,
         85,
         50,
         50,
-        100
+        100,
+        65
       ],
       "sources": {
         "wikipedia": {
-          "last7": 91,
-          "prior7": 100,
-          "growth": -0.09
+          "last7": 96,
+          "prior7": 93,
+          "growth": 0.03225806451612903
         },
         "hackernews": null,
         "reddit": null,
@@ -1567,30 +1571,30 @@
       "id": "gan-charger",
       "label": "GaN chargers",
       "section": "Power",
-      "delta": 999,
+      "delta": 470,
       "trendLabel": "Viral",
-      "score": 0.977021995589199,
+      "score": 0.4306002278169176,
       "confidence": "medium",
       "series": [
+        23,
+        97,
         21,
         20,
+        19,
+        36,
         100,
-        18,
-        18,
-        17,
-        23,
-        99
+        22
       ],
       "sources": {
         "wikipedia": {
-          "last7": 579,
-          "prior7": 589,
-          "growth": -0.01697792869269949
+          "last7": 561,
+          "prior7": 579,
+          "growth": -0.031088082901554404
         },
         "hackernews": {
-          "last7": 1454,
-          "prior7": 5,
-          "growth": 289.8
+          "last7": 1621,
+          "prior7": 107,
+          "growth": 14.149532710280374
         },
         "reddit": null,
         "tiwib": null
@@ -1600,25 +1604,25 @@
       "id": "magnetic-charging",
       "label": "Magnetic charging",
       "section": "Power",
-      "delta": -4,
+      "delta": -3,
       "trendLabel": "Steady",
-      "score": -0.3889207068166895,
+      "score": -0.11625230621436429,
       "confidence": "low",
       "series": [
-        98,
         84,
         90,
         88,
         66,
         68,
         100,
-        95
+        95,
+        90
       ],
       "sources": {
         "wikipedia": {
-          "last7": 1482,
-          "prior7": 1545,
-          "growth": -0.040776699029126215
+          "last7": 1495,
+          "prior7": 1536,
+          "growth": -0.026692708333333332
         },
         "hackernews": null,
         "reddit": null,
@@ -1629,25 +1633,25 @@
       "id": "travel-adapter",
       "label": "Travel adapters",
       "section": "Accessories",
-      "delta": -1,
+      "delta": 0,
       "trendLabel": "Steady",
-      "score": -0.19102570713934003,
+      "score": 0.058419550820801386,
       "confidence": "low",
       "series": [
-        89,
         95,
         100,
         81,
         75,
         77,
         99,
-        90
+        90,
+        94
       ],
       "sources": {
         "wikipedia": {
-          "last7": 3764,
-          "prior7": 3805,
-          "growth": -0.010775295663600526
+          "last7": 3755,
+          "prior7": 3773,
+          "growth": -0.004770739464617015
         },
         "hackernews": null,
         "reddit": null,
@@ -1658,25 +1662,25 @@
       "id": "e-scooter",
       "label": "E-scooters",
       "section": "Mobility",
-      "delta": -13,
+      "delta": -21,
       "trendLabel": "Steady",
-      "score": -0.2036015525281242,
+      "score": -0.8125436559690135,
       "confidence": "medium",
       "series": [
-        50,
         80,
         40,
         70,
         100,
         70,
         40,
+        50,
         50
       ],
       "sources": {
         "wikipedia": {
-          "last7": 45,
-          "prior7": 45,
-          "growth": 0
+          "last7": 42,
+          "prior7": 48,
+          "growth": -0.12
         },
         "hackernews": {
           "last7": 0,
@@ -1691,30 +1695,30 @@
       "id": "led-mask",
       "label": "LED masks",
       "section": "Health",
-      "delta": -22,
+      "delta": -17,
       "trendLabel": "Steady",
-      "score": 0.5067632950341887,
+      "score": 0.31547310576193177,
       "confidence": "medium",
       "series": [
-        72,
-        68,
-        60,
-        73,
         100,
-        66,
-        64,
-        63
+        37,
+        44,
+        60,
+        40,
+        37,
+        37,
+        95
       ],
       "sources": {
         "wikipedia": {
-          "last7": 1018,
-          "prior7": 876,
-          "growth": 0.16210045662100456
+          "last7": 1000,
+          "prior7": 913,
+          "growth": 0.09529025191675794
         },
         "hackernews": {
-          "last7": 6,
-          "prior7": 200,
-          "growth": -0.97
+          "last7": 85,
+          "prior7": 278,
+          "growth": -0.6942446043165468
         },
         "reddit": null,
         "tiwib": null
@@ -1724,27 +1728,31 @@
       "id": "smart-scale",
       "label": "Smart scales",
       "section": "Health",
-      "delta": -1,
+      "delta": 8,
       "trendLabel": "Steady",
-      "score": -0.15395078099687756,
-      "confidence": "low",
+      "score": -0.07088834910241354,
+      "confidence": "medium",
       "series": [
-        100,
-        92,
-        90,
-        74,
-        66,
-        85,
-        81,
-        89
+        14,
+        13,
+        11,
+        10,
+        13,
+        12,
+        13,
+        100
       ],
       "sources": {
         "wikipedia": {
-          "last7": 1544,
-          "prior7": 1552,
-          "growth": -0.005154639175257732
+          "last7": 1561,
+          "prior7": 1540,
+          "growth": 0.013636363636363636
         },
-        "hackernews": null,
+        "hackernews": {
+          "last7": 1,
+          "prior7": 0,
+          "growth": 0.2
+        },
         "reddit": null,
         "tiwib": null
       }
@@ -1753,30 +1761,30 @@
       "id": "recovery",
       "label": "Recovery gear",
       "section": "Health",
-      "delta": -9,
+      "delta": -1,
       "trendLabel": "Steady",
-      "score": -0.011136348394264611,
+      "score": 0.3480802376470682,
       "confidence": "medium",
       "series": [
         28,
-        28,
-        35,
+        34,
+        31,
         32,
-        33,
-        30,
-        37,
-        100
+        29,
+        36,
+        100,
+        44
       ],
       "sources": {
         "wikipedia": {
-          "last7": 1695,
-          "prior7": 1624,
-          "growth": 0.0437192118226601
+          "last7": 1756,
+          "prior7": 1601,
+          "growth": 0.09681449094316052
         },
         "hackernews": {
-          "last7": 183,
-          "prior7": 282,
-          "growth": -0.35106382978723405
+          "last7": 209,
+          "prior7": 272,
+          "growth": -0.23161764705882354
         },
         "reddit": null,
         "tiwib": null
@@ -1786,25 +1794,25 @@
       "id": "desk-3d-printer",
       "label": "Desk 3D printers",
       "section": "Maker",
-      "delta": -5,
+      "delta": -4,
       "trendLabel": "Steady",
-      "score": -0.4505430997386836,
+      "score": -0.23281940898937611,
       "confidence": "low",
       "series": [
-        92,
         95,
         94,
         92,
         73,
         74,
         100,
-        99
+        99,
+        97
       ],
       "sources": {
         "wikipedia": {
-          "last7": 4397,
-          "prior7": 4629,
-          "growth": -0.050118816158997624
+          "last7": 4408,
+          "prior7": 4598,
+          "growth": -0.04132231404958678
         },
         "hackernews": null,
         "reddit": null,
@@ -1815,25 +1823,25 @@
       "id": "dev-board",
       "label": "Dev boards",
       "section": "Maker",
-      "delta": -1,
+      "delta": 0,
       "trendLabel": "Steady",
-      "score": -0.1634029657156128,
+      "score": 0.0756283897743551,
       "confidence": "low",
       "series": [
-        81,
-        100,
-        71,
-        89,
-        85,
-        100,
-        84,
-        89
+        92,
+        66,
+        82,
+        79,
+        92,
+        78,
+        82,
+        100
       ],
       "sources": {
         "wikipedia": {
-          "last7": 754,
-          "prior7": 759,
-          "growth": -0.006587615283267457
+          "last7": 764,
+          "prior7": 766,
+          "growth": -0.0026109660574412533
         },
         "hackernews": null,
         "reddit": null,
@@ -1844,30 +1852,30 @@
       "id": "ai-recorder",
       "label": "AI recorders",
       "section": "Work",
-      "delta": -25,
+      "delta": -19,
       "trendLabel": "Steady",
-      "score": -0.6736997100103507,
+      "score": -0.4149982983080476,
       "confidence": "medium",
       "series": [
+        26,
+        42,
+        37,
+        39,
+        28,
+        36,
         100,
-        13,
-        21,
-        18,
-        19,
-        14,
-        18,
-        50
+        42
       ],
       "sources": {
         "wikipedia": {
-          "last7": 251,
-          "prior7": 281,
-          "growth": -0.10676156583629894
+          "last7": 258,
+          "prior7": 270,
+          "growth": -0.044444444444444446
         },
         "hackernews": {
-          "last7": 282,
-          "prior7": 617,
-          "growth": -0.5429497568881686
+          "last7": 327,
+          "prior7": 619,
+          "growth": -0.4717285945072698
         },
         "reddit": null,
         "tiwib": null
@@ -1877,30 +1885,30 @@
       "id": "pocket-gimbal",
       "label": "Pocket gimbals",
       "section": "Work",
-      "delta": 75,
-      "trendLabel": "Rising",
-      "score": -0.5593437850167489,
+      "delta": 295,
+      "trendLabel": "Viral",
+      "score": -0.03613401171396724,
       "confidence": "medium",
       "series": [
-        19,
-        17,
-        17,
+        21,
+        21,
         23,
-        16,
-        14,
-        100,
-        20
+        20,
+        18,
+        68,
+        22,
+        100
       ],
       "sources": {
         "wikipedia": {
-          "last7": 1544,
-          "prior7": 1685,
-          "growth": -0.08367952522255193
+          "last7": 1545,
+          "prior7": 1657,
+          "growth": -0.0675920337960169
         },
         "hackernews": {
-          "last7": 24,
-          "prior7": 7,
-          "growth": 2.4285714285714284
+          "last7": 60,
+          "prior7": 6,
+          "growth": 9
         },
         "reddit": null,
         "tiwib": null
@@ -1910,25 +1918,25 @@
       "id": "360-camera",
       "label": "360 cameras",
       "section": "Work",
-      "delta": 20,
+      "delta": 28,
       "trendLabel": "Steady",
-      "score": 1.1902526124710744,
+      "score": 2.3252129637868473,
       "confidence": "low",
       "series": [
-        73,
         54,
         65,
         62,
         84,
         46,
         62,
-        100
+        100,
+        76
       ],
       "sources": {
         "wikipedia": {
-          "last7": 175,
-          "prior7": 146,
-          "growth": 0.19863013698630136
+          "last7": 183,
+          "prior7": 143,
+          "growth": 0.27972027972027974
         },
         "hackernews": null,
         "reddit": null,
@@ -1939,30 +1947,30 @@
       "id": "keyboard",
       "label": "Keyboards",
       "section": "Work",
-      "delta": 11,
+      "delta": -40,
       "trendLabel": "Steady",
-      "score": -0.34314794870470916,
+      "score": -0.770177288264045,
       "confidence": "medium",
       "series": [
-        52,
         100,
         18,
         17,
         13,
         13,
         19,
-        18
+        18,
+        17
       ],
       "sources": {
         "wikipedia": {
-          "last7": 3451,
-          "prior7": 3567,
-          "growth": -0.032520325203252036
+          "last7": 3271,
+          "prior7": 3659,
+          "growth": -0.10603990161246242
         },
         "hackernews": {
-          "last7": 5,
-          "prior7": 3,
-          "growth": 0.4
+          "last7": 0,
+          "prior7": 8,
+          "growth": -1
         },
         "reddit": null,
         "tiwib": null
@@ -1972,25 +1980,25 @@
       "id": "finder-tag",
       "label": "Finder tags",
       "section": "Accessories",
-      "delta": 28,
+      "delta": 31,
       "trendLabel": "Steady",
-      "score": -0.5493426165832271,
+      "score": -0.31341593299361326,
       "confidence": "medium",
       "series": [
-        26,
         0,
-        39,
+        44,
         0,
         100,
-        13,
-        13,
-        26
+        15,
+        15,
+        29,
+        0
       ],
       "sources": {
         "wikipedia": {
           "last7": 7,
-          "prior7": 11,
-          "growth": -0.08
+          "prior7": 9,
+          "growth": -0.04
         },
         "hackernews": {
           "last7": 6,
