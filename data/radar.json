@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-30T23:31:50.602Z",
-  "cjGeneratedAt": "2026-10-30T23:31:50.602Z",
+  "generatedAt": "2026-10-31T23:12:01.562Z",
+  "cjGeneratedAt": "2026-10-31T23:12:01.562Z",
   "rate": {
     "usdAud": 1.4236,
     "source": "ecb",
@@ -18,30 +18,30 @@
       "id": "smart-ring",
       "label": "Smart rings",
       "section": "Wearables",
-      "delta": 999,
-      "trendLabel": "Viral",
-      "score": 0.36410002267204894,
+      "delta": -12,
+      "trendLabel": "Steady",
+      "score": -0.19852049723315934,
       "confidence": "medium",
       "series": [
-        30,
         100,
-        27,
-        26,
-        16,
-        26,
-        15,
-        94
+        33,
+        34,
+        21,
+        33,
+        19,
+        92,
+        32
       ],
       "sources": {
         "wikipedia": {
-          "last7": 338,
-          "prior7": 331,
-          "growth": 0.021148036253776436
+          "last7": 317,
+          "prior7": 336,
+          "growth": -0.05654761904761905
         },
         "hackernews": {
-          "last7": 165,
-          "prior7": 1,
-          "growth": 32.8
+          "last7": 98,
+          "prior7": 132,
+          "growth": -0.25757575757575757
         },
         "reddit": null,
         "tiwib": null
@@ -51,30 +51,30 @@
       "id": "smart-glasses",
       "label": "Smart glasses",
       "section": "Wearables",
-      "delta": -38,
+      "delta": -28,
       "trendLabel": "Steady",
-      "score": -0.5558942134091065,
+      "score": 0.34401972683726767,
       "confidence": "medium",
       "series": [
-        69,
-        76,
-        84,
-        82,
-        80,
-        86,
-        95,
-        100
+        72,
+        78,
+        75,
+        74,
+        81,
+        87,
+        100,
+        96
       ],
       "sources": {
         "wikipedia": {
-          "last7": 1028,
-          "prior7": 1120,
-          "growth": -0.08214285714285714
+          "last7": 1037,
+          "prior7": 1011,
+          "growth": 0.025717111770524232
         },
         "hackernews": {
-          "last7": 6,
-          "prior7": 189,
-          "growth": -0.9682539682539683
+          "last7": 10,
+          "prior7": 101,
+          "growth": -0.900990099009901
         },
         "reddit": null,
         "tiwib": null
@@ -84,25 +84,25 @@
       "id": "fitness-band",
       "label": "Fitness bands",
       "section": "Wearables",
-      "delta": -4,
+      "delta": -25,
       "trendLabel": "Steady",
-      "score": -0.24441448883460565,
+      "score": -2.0880213931337104,
       "confidence": "low",
       "series": [
-        100,
         100,
         47,
         76,
         65,
         71,
         41,
-        29
+        29,
+        59
       ],
       "sources": {
         "wikipedia": {
-          "last7": 73,
-          "prior7": 76,
-          "growth": -0.039473684210526314
+          "last7": 66,
+          "prior7": 88,
+          "growth": -0.25
         },
         "hackernews": null,
         "reddit": null,
@@ -113,25 +113,25 @@
       "id": "smartwatch",
       "label": "Health watches",
       "section": "Wearables",
-      "delta": -2,
+      "delta": -4,
       "trendLabel": "Steady",
-      "score": -0.03790283050744637,
+      "score": 0.02894167116177508,
       "confidence": "low",
       "series": [
-        83,
         79,
         71,
         73,
         100,
         75,
         76,
-        65
+        65,
+        70
       ],
       "sources": {
         "wikipedia": {
-          "last7": 1430,
-          "prior7": 1454,
-          "growth": -0.016506189821182942
+          "last7": 1406,
+          "prior7": 1462,
+          "growth": -0.038303693570451436
         },
         "hackernews": null,
         "reddit": null,
@@ -142,30 +142,30 @@
       "id": "ai-wearable",
       "label": "AI wearables",
       "section": "Wearables",
-      "delta": -28,
+      "delta": -27,
       "trendLabel": "Steady",
-      "score": 0.1677771552591391,
+      "score": 0.35718432121204696,
       "confidence": "medium",
       "series": [
-        100,
-        61,
-        62,
-        54,
-        69,
-        98,
+        63,
+        64,
         56,
-        56
+        72,
+        100,
+        58,
+        58,
+        87
       ],
       "sources": {
         "wikipedia": {
-          "last7": 782,
-          "prior7": 753,
-          "growth": 0.03851261620185923
+          "last7": 781,
+          "prior7": 760,
+          "growth": 0.02763157894736842
         },
         "hackernews": {
-          "last7": 5,
+          "last7": 9,
           "prior7": 63,
-          "growth": -0.9206349206349206
+          "growth": -0.8571428571428571
         },
         "reddit": null,
         "tiwib": null
@@ -175,25 +175,25 @@
       "id": "open-ear-buds",
       "label": "Open-ear buds",
       "section": "Audio",
-      "delta": -4,
+      "delta": -6,
       "trendLabel": "Steady",
-      "score": -0.2278545025773732,
+      "score": -0.1605052343156127,
       "confidence": "low",
       "series": [
-        98,
         89,
         75,
         84,
         92,
         82,
         100,
-        80
+        80,
+        73
       ],
       "sources": {
         "wikipedia": {
-          "last7": 2097,
-          "prior7": 2179,
-          "growth": -0.03763194125745755
+          "last7": 2042,
+          "prior7": 2166,
+          "growth": -0.057248384118190214
         },
         "hackernews": null,
         "reddit": null,
@@ -204,25 +204,25 @@
       "id": "portable-speaker",
       "label": "Portable speakers",
       "section": "Audio",
-      "delta": 3,
+      "delta": 8,
       "trendLabel": "Steady",
-      "score": 0.3486969433934642,
+      "score": 1.1654032644005359,
       "confidence": "low",
       "series": [
-        62,
         59,
         69,
         72,
         72,
         76,
         86,
-        100
+        100,
+        66
       ],
       "sources": {
         "wikipedia": {
-          "last7": 155,
-          "prior7": 151,
-          "growth": 0.026490066225165563
+          "last7": 157,
+          "prior7": 146,
+          "growth": 0.07534246575342465
         },
         "hackernews": null,
         "reddit": null,
@@ -233,25 +233,25 @@
       "id": "indoor-camera",
       "label": "Indoor cameras",
       "section": "Smart home",
-      "delta": -38,
+      "delta": -32,
       "trendLabel": "Steady",
-      "score": -0.46789796911826453,
+      "score": 0.2745816995749113,
       "confidence": "medium",
       "series": [
-        100,
-        71,
         75,
-        62,
-        94,
-        83,
-        63,
-        71
+        80,
+        66,
+        100,
+        89,
+        68,
+        76,
+        86
       ],
       "sources": {
         "wikipedia": {
-          "last7": 581,
-          "prior7": 623,
-          "growth": -0.06741573033707865
+          "last7": 592,
+          "prior7": 583,
+          "growth": 0.015437392795883362
         },
         "hackernews": {
           "last7": 0,
@@ -266,25 +266,25 @@
       "id": "light-strip",
       "label": "Smart lighting",
       "section": "Smart home",
-      "delta": 9,
+      "delta": 1,
       "trendLabel": "Steady",
-      "score": 0.8923795841584974,
+      "score": 0.5278087226964052,
       "confidence": "low",
       "series": [
-        71,
         67,
         67,
         73,
         44,
         90,
         87,
-        100
+        100,
+        42
       ],
       "sources": {
         "wikipedia": {
-          "last7": 275,
-          "prior7": 253,
-          "growth": 0.08695652173913043
+          "last7": 262,
+          "prior7": 259,
+          "growth": 0.011583011583011582
         },
         "hackernews": null,
         "reddit": null,
@@ -295,30 +295,30 @@
       "id": "robot-vacuum",
       "label": "Robot vacuums",
       "section": "Smart home",
-      "delta": 999,
-      "trendLabel": "Viral",
-      "score": 0.7151994908921964,
+      "delta": 88,
+      "trendLabel": "Rising",
+      "score": -0.02547929676675738,
       "confidence": "medium",
       "series": [
-        13,
         41,
         100,
         22,
         17,
         13,
         12,
-        15
+        15,
+        16
       ],
       "sources": {
         "wikipedia": {
-          "last7": 554,
-          "prior7": 525,
-          "growth": 0.05523809523809524
+          "last7": 529,
+          "prior7": 548,
+          "growth": -0.03467153284671533
         },
         "hackernews": {
-          "last7": 1106,
-          "prior7": 22,
-          "growth": 49.27272727272727
+          "last7": 906,
+          "prior7": 244,
+          "growth": 2.7131147540983607
         },
         "reddit": null,
         "tiwib": null
@@ -330,7 +330,7 @@
       "section": "Smart home",
       "delta": 20,
       "trendLabel": "Steady",
-      "score": -0.3803126794393659,
+      "score": -0.275997179119181,
       "confidence": "low",
       "series": [
         0,
@@ -338,8 +338,8 @@
         0,
         0,
         0,
-        0,
         100,
+        0,
         0
       ],
       "sources": {
@@ -357,30 +357,30 @@
       "id": "smart-lock",
       "label": "Smart locks",
       "section": "Smart home",
-      "delta": 0,
+      "delta": -8,
       "trendLabel": "Steady",
-      "score": -0.7300949371932686,
+      "score": 0.03093347088905693,
       "confidence": "medium",
       "series": [
-        28,
+        32,
         24,
-        18,
-        24,
-        26,
-        23,
-        23,
-        100
+        32,
+        35,
+        29,
+        30,
+        100,
+        53
       ],
       "sources": {
         "wikipedia": {
-          "last7": 212,
-          "prior7": 239,
-          "growth": -0.11297071129707113
+          "last7": 220,
+          "prior7": 225,
+          "growth": -0.022222222222222223
         },
         "hackernews": {
-          "last7": 83,
-          "prior7": 68,
-          "growth": 0.22058823529411764
+          "last7": 98,
+          "prior7": 121,
+          "growth": -0.19008264462809918
         },
         "reddit": null,
         "tiwib": null
@@ -390,30 +390,30 @@
       "id": "matter-hub",
       "label": "Matter hubs",
       "section": "Smart home",
-      "delta": -18,
+      "delta": 32,
       "trendLabel": "Steady",
-      "score": -0.5761197391011023,
+      "score": -0.41130391181951576,
       "confidence": "medium",
       "series": [
-        31,
-        29,
-        28,
-        31,
-        38,
-        33,
+        19,
+        18,
+        21,
         27,
-        100
+        22,
+        18,
+        100,
+        21
       ],
       "sources": {
         "wikipedia": {
-          "last7": 1819,
-          "prior7": 1991,
-          "growth": -0.08638874937217479
+          "last7": 1781,
+          "prior7": 1958,
+          "growth": -0.09039836567926456
         },
         "hackernews": {
-          "last7": 81,
-          "prior7": 131,
-          "growth": -0.3816793893129771
+          "last7": 86,
+          "prior7": 40,
+          "growth": 1.15
         },
         "reddit": null,
         "tiwib": null
@@ -423,30 +423,30 @@
       "id": "laser-projector",
       "label": "Laser projectors",
       "section": "Home cinema",
-      "delta": 588,
+      "delta": 224,
       "trendLabel": "Viral",
-      "score": -1.615654458520051,
+      "score": -1.7907674772768039,
       "confidence": "medium",
       "series": [
-        26,
+        16,
+        15,
         14,
-        14,
-        13,
-        17,
-        14,
-        21,
-        100
+        20,
+        15,
+        22,
+        100,
+        11
       ],
       "sources": {
         "wikipedia": {
-          "last7": 238,
-          "prior7": 334,
-          "growth": -0.2874251497005988
+          "last7": 227,
+          "prior7": 327,
+          "growth": -0.3058103975535168
         },
         "hackernews": {
-          "last7": 96,
-          "prior7": 5,
-          "growth": 18.2
+          "last7": 100,
+          "prior7": 12,
+          "growth": 7.333333333333333
         },
         "reddit": null,
         "tiwib": null
@@ -456,30 +456,30 @@
       "id": "battery-projector",
       "label": "Battery projectors",
       "section": "Home cinema",
-      "delta": -13,
-      "trendLabel": "Steady",
-      "score": -0.28386253043014886,
+      "delta": 173,
+      "trendLabel": "Trending",
+      "score": -0.1342459202378965,
       "confidence": "medium",
       "series": [
-        36,
+        19,
+        15,
+        31,
         30,
-        23,
-        100,
-        36,
-        13,
-        13,
-        23
+        8,
+        10,
+        11,
+        100
       ],
       "sources": {
         "wikipedia": {
-          "last7": 51,
-          "prior7": 53,
-          "growth": -0.03773584905660377
+          "last7": 52,
+          "prior7": 55,
+          "growth": -0.05454545454545454
         },
         "hackernews": {
-          "last7": 11,
-          "prior7": 16,
-          "growth": -0.3125
+          "last7": 145,
+          "prior7": 23,
+          "growth": 5.304347826086956
         },
         "reddit": null,
         "tiwib": null
@@ -489,30 +489,30 @@
       "id": "projector-screen",
       "label": "Projector screens",
       "section": "Home cinema",
-      "delta": -21,
+      "delta": -32,
       "trendLabel": "Steady",
-      "score": -0.2161767059440041,
+      "score": -0.3765029861861816,
       "confidence": "medium",
       "series": [
-        50,
-        78,
-        93,
-        46,
+        99,
+        44,
+        39,
         100,
+        32,
         38,
-        45,
-        51
+        43,
+        43
       ],
       "sources": {
         "wikipedia": {
-          "last7": 374,
-          "prior7": 384,
-          "growth": -0.026041666666666668
+          "last7": 367,
+          "prior7": 400,
+          "growth": -0.0825
         },
         "hackernews": {
-          "last7": 5,
-          "prior7": 12,
-          "growth": -0.5833333333333334
+          "last7": 1,
+          "prior7": 5,
+          "growth": -0.8
         },
         "reddit": null,
         "tiwib": null
@@ -522,25 +522,25 @@
       "id": "qi2-power-bank",
       "label": "Qi2 power banks",
       "section": "Power",
-      "delta": 28,
+      "delta": 0,
       "trendLabel": "Steady",
-      "score": 2.6492816617276094,
+      "score": 0.4119786068662894,
       "confidence": "low",
       "series": [
-        69,
         81,
         81,
         54,
         100,
         50,
         23,
-        31
+        31,
+        38
       ],
       "sources": {
         "wikipedia": {
-          "last7": 109,
-          "prior7": 85,
-          "growth": 0.2823529411764706
+          "last7": 98,
+          "prior7": 98,
+          "growth": 0
         },
         "hackernews": null,
         "reddit": null,
@@ -551,30 +551,30 @@
       "id": "gan-charger",
       "label": "GaN chargers",
       "section": "Power",
-      "delta": 16,
+      "delta": 10,
       "trendLabel": "Steady",
-      "score": -0.7257903793654829,
+      "score": -0.6502674301668552,
       "confidence": "medium",
       "series": [
-        39,
-        33,
-        33,
-        33,
+        40,
+        40,
+        38,
         100,
-        42,
-        32,
-        92
+        69,
+        38,
+        94,
+        47
       ],
       "sources": {
         "wikipedia": {
-          "last7": 526,
-          "prior7": 593,
-          "growth": -0.11298482293423272
+          "last7": 516,
+          "prior7": 590,
+          "growth": -0.12542372881355932
         },
         "hackernews": {
-          "last7": 478,
-          "prior7": 279,
-          "growth": 0.7132616487455197
+          "last7": 609,
+          "prior7": 392,
+          "growth": 0.5535714285714286
         },
         "reddit": null,
         "tiwib": null
@@ -584,25 +584,25 @@
       "id": "magnetic-charging",
       "label": "Magnetic charging",
       "section": "Power",
-      "delta": -4,
+      "delta": -2,
       "trendLabel": "Steady",
-      "score": -0.22658712253774485,
+      "score": 0.22219758496847922,
       "confidence": "low",
       "series": [
-        83,
         81,
         94,
         82,
         93,
         100,
         90,
-        84
+        84,
+        86
       ],
       "sources": {
         "wikipedia": {
-          "last7": 1335,
-          "prior7": 1387,
-          "growth": -0.03749098774333093
+          "last7": 1344,
+          "prior7": 1370,
+          "growth": -0.01897810218978102
         },
         "hackernews": null,
         "reddit": null,
@@ -613,25 +613,25 @@
       "id": "travel-adapter",
       "label": "Travel adapters",
       "section": "Accessories",
-      "delta": -15,
+      "delta": -16,
       "trendLabel": "Steady",
-      "score": -1.2608157768041963,
+      "score": -1.197674626498284,
       "confidence": "low",
       "series": [
-        100,
-        89,
+        93,
+        86,
         83,
-        80,
-        97,
-        91,
-        92,
-        93
+        100,
+        94,
+        95,
+        96,
+        94
       ],
       "sources": {
         "wikipedia": {
-          "last7": 3573,
-          "prior7": 4216,
-          "growth": -0.15251423149905124
+          "last7": 3581,
+          "prior7": 4268,
+          "growth": -0.16096532333645736
         },
         "hackernews": null,
         "reddit": null,
@@ -642,25 +642,25 @@
       "id": "e-scooter",
       "label": "E-scooters",
       "section": "Mobility",
-      "delta": 26,
+      "delta": 14,
       "trendLabel": "Steady",
-      "score": 2.4482957434297816,
+      "score": 1.8119786068662895,
       "confidence": "low",
       "series": [
-        38,
         88,
         50,
         100,
         88,
         63,
         38,
-        63
+        63,
+        25
       ],
       "sources": {
         "wikipedia": {
-          "last7": 39,
-          "prior7": 26,
-          "growth": 0.26
+          "last7": 34,
+          "prior7": 27,
+          "growth": 0.14
         },
         "hackernews": null,
         "reddit": null,
@@ -671,30 +671,30 @@
       "id": "led-mask",
       "label": "LED masks",
       "section": "Health",
-      "delta": 519,
-      "trendLabel": "Viral",
-      "score": -0.5852087501165911,
+      "delta": -21,
+      "trendLabel": "Steady",
+      "score": -0.7188370026969615,
       "confidence": "medium",
       "series": [
-        19,
         100,
-        12,
-        12,
-        15,
+        18,
         17,
-        14,
-        14
+        22,
+        22,
+        20,
+        28,
+        57
       ],
       "sources": {
         "wikipedia": {
-          "last7": 936,
-          "prior7": 1054,
-          "growth": -0.11195445920303605
+          "last7": 927,
+          "prior7": 1071,
+          "growth": -0.13445378151260504
         },
         "hackernews": {
-          "last7": 84,
-          "prior7": 5,
-          "growth": 15.8
+          "last7": 55,
+          "prior7": 86,
+          "growth": -0.36046511627906974
         },
         "reddit": null,
         "tiwib": null
@@ -704,30 +704,30 @@
       "id": "smart-scale",
       "label": "Smart scales",
       "section": "Health",
-      "delta": 8,
+      "delta": 3,
       "trendLabel": "Steady",
-      "score": -0.05268718460106592,
+      "score": -0.37131987538803723,
       "confidence": "medium",
       "series": [
-        25,
         24,
         15,
         19,
-        27,
+        26,
         21,
         18,
-        100
+        100,
+        18
       ],
       "sources": {
         "wikipedia": {
-          "last7": 1579,
-          "prior7": 1579,
-          "growth": 0
+          "last7": 1510,
+          "prior7": 1647,
+          "growth": -0.08318154219793564
         },
         "hackernews": {
-          "last7": 76,
+          "last7": 77,
           "prior7": 61,
-          "growth": 0.2459016393442623
+          "growth": 0.26229508196721313
         },
         "reddit": null,
         "tiwib": null
@@ -737,30 +737,30 @@
       "id": "recovery",
       "label": "Recovery gear",
       "section": "Health",
-      "delta": 31,
+      "delta": 3,
       "trendLabel": "Steady",
-      "score": -0.2231963124991767,
+      "score": -0.3956451935130423,
       "confidence": "medium",
       "series": [
-        21,
-        36,
+        38,
+        25,
+        23,
         23,
         22,
-        21,
-        18,
         100,
+        22,
         20
       ],
       "sources": {
         "wikipedia": {
-          "last7": 1577,
-          "prior7": 1625,
-          "growth": -0.029538461538461538
+          "last7": 1504,
+          "prior7": 1647,
+          "growth": -0.08682452944748027
         },
         "hackernews": {
-          "last7": 537,
-          "prior7": 271,
-          "growth": 0.981549815498155
+          "last7": 507,
+          "prior7": 403,
+          "growth": 0.25806451612903225
         },
         "reddit": null,
         "tiwib": null
@@ -770,30 +770,30 @@
       "id": "desk-3d-printer",
       "label": "Desk 3D printers",
       "section": "Maker",
-      "delta": 59,
+      "delta": 64,
       "trendLabel": "Rising",
-      "score": -0.11261818214820217,
+      "score": -0.05295997689418988,
       "confidence": "medium",
       "series": [
-        13,
         13,
         13,
         12,
         11,
         14,
         100,
+        11,
         11
       ],
       "sources": {
         "wikipedia": {
-          "last7": 4494,
-          "prior7": 4550,
-          "growth": -0.012307692307692308
+          "last7": 4402,
+          "prior7": 4575,
+          "growth": -0.03781420765027323
         },
         "hackernews": {
-          "last7": 9,
+          "last7": 10,
           "prior7": 0,
-          "growth": 1.8
+          "growth": 2
         },
         "reddit": null,
         "tiwib": null
@@ -803,30 +803,30 @@
       "id": "dev-board",
       "label": "Dev boards",
       "section": "Maker",
-      "delta": 498,
+      "delta": 511,
       "trendLabel": "Viral",
-      "score": -0.6803782434621002,
+      "score": 0.07564543120129501,
       "confidence": "medium",
       "series": [
-        11,
         11,
         8,
         10,
         12,
         11,
         12,
-        100
+        100,
+        15
       ],
       "sources": {
         "wikipedia": {
-          "last7": 619,
-          "prior7": 709,
-          "growth": -0.12693935119887165
+          "last7": 652,
+          "prior7": 677,
+          "growth": -0.03692762186115214
         },
         "hackernews": {
-          "last7": 76,
+          "last7": 77,
           "prior7": 0,
-          "growth": 15.2
+          "growth": 15.4
         },
         "reddit": null,
         "tiwib": null
@@ -836,30 +836,30 @@
       "id": "ai-recorder",
       "label": "AI recorders",
       "section": "Work",
-      "delta": -20,
+      "delta": -22,
       "trendLabel": "Steady",
-      "score": 0.6598274881200883,
+      "score": 0.776783185815157,
       "confidence": "medium",
       "series": [
-        44,
-        48,
+        49,
         29,
         100,
         71,
         49,
         64,
-        37
+        37,
+        46
       ],
       "sources": {
         "wikipedia": {
-          "last7": 279,
-          "prior7": 249,
-          "growth": 0.12048192771084337
+          "last7": 277,
+          "prior7": 254,
+          "growth": 0.09055118110236221
         },
         "hackernews": {
-          "last7": 106,
-          "prior7": 671,
-          "growth": -0.842026825633383
+          "last7": 107,
+          "prior7": 679,
+          "growth": -0.8424153166421208
         },
         "reddit": null,
         "tiwib": null
@@ -869,30 +869,30 @@
       "id": "pocket-gimbal",
       "label": "Pocket gimbals",
       "section": "Work",
-      "delta": 27,
+      "delta": -6,
       "trendLabel": "Steady",
-      "score": -0.036081149330604675,
+      "score": 0.16194620782524208,
       "confidence": "medium",
       "series": [
-        37,
-        66,
-        32,
-        95,
+        70,
         39,
-        66,
+        94,
+        48,
+        69,
         100,
-        37
+        44,
+        40
       ],
       "sources": {
         "wikipedia": {
-          "last7": 1544,
-          "prior7": 1541,
-          "growth": 0.001946787800129786
+          "last7": 1533,
+          "prior7": 1537,
+          "growth": -0.002602472348731295
         },
         "hackernews": {
-          "last7": 6,
-          "prior7": 2,
-          "growth": 0.8
+          "last7": 5,
+          "prior7": 6,
+          "growth": -0.16666666666666666
         },
         "reddit": null,
         "tiwib": null
@@ -902,30 +902,30 @@
       "id": "360-camera",
       "label": "360 cameras",
       "section": "Work",
-      "delta": 11,
-      "trendLabel": "Steady",
-      "score": 0.3495072564421112,
+      "delta": 452,
+      "trendLabel": "Viral",
+      "score": 0.2065827489403782,
       "confidence": "medium",
       "series": [
-        15,
-        16,
-        12,
-        8,
+        17,
         100,
-        13,
-        11,
-        18
+        9,
+        14,
+        14,
+        12,
+        20,
+        14
       ],
       "sources": {
         "wikipedia": {
-          "last7": 143,
-          "prior7": 134,
-          "growth": 0.06716417910447761
+          "last7": 133,
+          "prior7": 135,
+          "growth": -0.014814814814814815
         },
         "hackernews": {
-          "last7": 1,
+          "last7": 68,
           "prior7": 0,
-          "growth": 0.2
+          "growth": 13.6
         },
         "reddit": null,
         "tiwib": null
@@ -935,25 +935,25 @@
       "id": "keyboard",
       "label": "Keyboards",
       "section": "Work",
-      "delta": 9,
+      "delta": 7,
       "trendLabel": "Steady",
-      "score": 0.9057921665353303,
+      "score": 1.132330918914103,
       "confidence": "low",
       "series": [
-        90,
         84,
         67,
         58,
         89,
         100,
         92,
-        89
+        89,
+        75
       ],
       "sources": {
         "wikipedia": {
-          "last7": 3458,
-          "prior7": 3177,
-          "growth": 0.08844822159269751
+          "last7": 3408,
+          "prior7": 3179,
+          "growth": 0.07203523120478138
         },
         "hackernews": null,
         "reddit": null,
@@ -966,28 +966,28 @@
       "section": "Accessories",
       "delta": 999,
       "trendLabel": "Viral",
-      "score": 1.2341059830111623,
+      "score": 1.7538797543062585,
       "confidence": "medium",
       "series": [
-        29,
         14,
         100,
         14,
         43,
         0,
         14,
-        0
+        0,
+        29
       ],
       "sources": {
         "wikipedia": {
-          "last7": 6,
-          "prior7": 8,
-          "growth": -0.04
+          "last7": 7,
+          "prior7": 7,
+          "growth": 0
         },
         "hackernews": {
-          "last7": 858,
+          "last7": 859,
           "prior7": 0,
-          "growth": 171.6
+          "growth": 171.8
         },
         "reddit": null,
         "tiwib": null
@@ -995,6 +995,100 @@
     }
   ],
   "candidates": [
+    {
+      "pid": "2510120913021646000",
+      "termId": "360-camera",
+      "section": "Work",
+      "name": "Panoramic Motion Camera Anti-shake Camera Panoramic Camera",
+      "image": "https://oss-cf.cjdropshipping.com/product/2025/10/13/02/f6b232f2-eb55-404c-976c-24ef7218ec4c_trans.jpeg",
+      "cjUrl": "https://www.cjdropshipping.com/product/-p-2510120913021646000.html",
+      "listedNum": 55,
+      "cjScope": "category",
+      "variant": {
+        "vid": "2510120913021646200",
+        "name": "Panoramic Motion Camera Anti-shake Camera Panoramic Camera Official Standard",
+        "weightG": 530,
+        "priceUsd": 328.17,
+        "auPlug": false,
+        "variantCount": 1
+      },
+      "freight": {
+        "AU": {
+          "cheapest": {
+            "name": "CJPacket Eub Special Line",
+            "usd": 13.2,
+            "days": [
+              8,
+              17
+            ]
+          },
+          "fastest": {
+            "name": "CJPacket Sensitive",
+            "usd": 18.46,
+            "days": [
+              4,
+              9
+            ]
+          },
+          "lines": 10
+        },
+        "US": {
+          "cheapest": {
+            "name": "CJPacket Sensitive",
+            "usd": 13.55,
+            "days": [
+              4,
+              9
+            ]
+          },
+          "fastest": {
+            "name": "YunExpress Sensitive",
+            "usd": 14.3,
+            "days": [
+              4,
+              7
+            ]
+          },
+          "lines": 20
+        },
+        "GB": {
+          "cheapest": {
+            "name": "CJPacket Special line",
+            "usd": 9.08,
+            "days": [
+              5,
+              9
+            ]
+          },
+          "fastest": {
+            "name": "YunExpress Sensitive",
+            "usd": 9.43,
+            "days": [
+              4,
+              8
+            ]
+          },
+          "lines": 14
+        }
+      },
+      "money": {
+        "costAud": 467.18,
+        "freightAud": 18.79,
+        "landedAud": 485.97,
+        "retailAud": 1032.95,
+        "marginPct": 0.4502656420930345,
+        "netAud": 422.82,
+        "at2x": 0.41776613508925353,
+        "at3x": 0.6012170479097363,
+        "sectionMedianAud": 286
+      },
+      "flags": [],
+      "match": 0.6,
+      "score": 0.851,
+      "why": "360 cameras +452% on Wikipedia and Hacker News; A$422.82 profit a sale at A$1032.95; 55 dropshippers list it.",
+      "firstSeen": "2026-10-31",
+      "thin": false
+    },
     {
       "pid": "2014577180716077057",
       "termId": "laser-projector",
@@ -1054,7 +1148,7 @@
         "GB": {
           "cheapest": {
             "name": "YunExpress Ordinary",
-            "usd": 7.57,
+            "usd": 7.67,
             "days": [
               4,
               7
@@ -1086,103 +1180,9 @@
         "radio"
       ],
       "match": 0.6,
-      "score": 0.849,
-      "why": "Laser projectors +588% on Wikipedia and Hacker News; A$80.19 profit a sale at A$194.95; 50 dropshippers list it.",
+      "score": 0.753,
+      "why": "Laser projectors +224% on Wikipedia and Hacker News; A$80.19 profit a sale at A$194.95; 50 dropshippers list it.",
       "firstSeen": "2026-10-29",
-      "thin": false
-    },
-    {
-      "pid": "2610271120051624700",
-      "termId": "robot-vacuum",
-      "section": "Smart home",
-      "name": "Automatic Robot Vacuum Cleaner With Self-Cleaning Base Station - Laser Navigation Sweeping Mopping Combo For Home Floor Care",
-      "image": "https://oss-cf.cjdropshipping.com/product/2026/10/27/11/b035abad-c46b-4869-a567-5f354a3c247d.jpg",
-      "cjUrl": "https://www.cjdropshipping.com/product/-p-2610271120051624700.html",
-      "listedNum": 0,
-      "cjScope": "keyword",
-      "variant": {
-        "vid": "2610271120051625600",
-        "name": "Automatic Robot Vacuum Cleaner With Self-Cleaning Base Station - Laser Navigation Sweeping Mopping Combo For Home Floor Care Sweeper EU",
-        "weightG": 1514,
-        "priceUsd": 435.94,
-        "auPlug": false,
-        "variantCount": 1
-      },
-      "freight": {
-        "AU": {
-          "cheapest": {
-            "name": "CJPacket FJTY Eub Special Line",
-            "usd": 29.64,
-            "days": [
-              15,
-              25
-            ]
-          },
-          "fastest": {
-            "name": "CJPacket Sensitive",
-            "usd": 53.13,
-            "days": [
-              4,
-              9
-            ]
-          },
-          "lines": 10
-        },
-        "US": {
-          "cheapest": {
-            "name": "CJPacket FJTY Eub Special Line",
-            "usd": 37.77,
-            "days": [
-              15,
-              25
-            ]
-          },
-          "fastest": {
-            "name": "YunExpress Sensitive",
-            "usd": 78.55,
-            "days": [
-              4,
-              7
-            ]
-          },
-          "lines": 19
-        },
-        "GB": {
-          "cheapest": {
-            "name": "CJPacket Sensitive Oversize Line",
-            "usd": 30.09,
-            "days": [
-              8,
-              16
-            ]
-          },
-          "fastest": {
-            "name": "YunExpress Sensitive",
-            "usd": 53.59,
-            "days": [
-              4,
-              8
-            ]
-          },
-          "lines": 14
-        }
-      },
-      "money": {
-        "costAud": 620.6,
-        "freightAud": 42.2,
-        "landedAud": 662.8,
-        "retailAud": 1407.95,
-        "marginPct": 0.4500347277957314,
-        "netAud": 576.02,
-        "at2x": 0.41799630076548894,
-        "at3x": 0.6013688101762237,
-        "sectionMedianAud": 269.5
-      },
-      "flags": [],
-      "match": 1,
-      "score": 0.832,
-      "why": "Robot vacuums +999% on Wikipedia and Hacker News; A$576.02 profit a sale at A$1407.95; 0 dropshippers list it.",
-      "firstSeen": "2026-10-28",
       "thin": false
     },
     {
@@ -1214,7 +1214,7 @@
           },
           "fastest": {
             "name": "CJPacket Sensitive",
-            "usd": 10.55,
+            "usd": 10.68,
             "days": [
               4,
               9
@@ -1252,7 +1252,7 @@
           },
           "fastest": {
             "name": "YunExpress Sensitive",
-            "usd": 4.63,
+            "usd": 4.7,
             "days": [
               4,
               8
@@ -1280,8 +1280,196 @@
       "thin": false
     },
     {
+      "pid": "2601200611021634300",
+      "termId": "battery-projector",
+      "section": "Home cinema",
+      "name": "HY300 Mini Smart Home Projector",
+      "image": "https://oss-cf.cjdropshipping.com/product/2026/01/20/06/05198241-2e4f-4e37-a291-3d70080bbe25_trans.jpeg",
+      "cjUrl": "https://www.cjdropshipping.com/product/-p-2601200611021634300.html",
+      "listedNum": 275,
+      "cjScope": "category",
+      "variant": {
+        "vid": "2601200611021635500",
+        "name": "HY300 Mini Smart Home Projector Hy300950s AU",
+        "weightG": 730,
+        "priceUsd": 22.89,
+        "auPlug": true,
+        "variantCount": 4
+      },
+      "freight": {
+        "AU": {
+          "cheapest": {
+            "name": "CJPacket Fast Line",
+            "usd": 15.05,
+            "days": [
+              6,
+              10
+            ]
+          },
+          "fastest": {
+            "name": "DHL Official",
+            "usd": 42.02,
+            "days": [
+              4,
+              6
+            ]
+          },
+          "lines": 11
+        },
+        "US": {
+          "cheapest": {
+            "name": "CJPacket Sensitive",
+            "usd": 15.69,
+            "days": [
+              4,
+              9
+            ]
+          },
+          "fastest": {
+            "name": "YunExpress Sensitive",
+            "usd": 16.62,
+            "days": [
+              4,
+              7
+            ]
+          },
+          "lines": 20
+        },
+        "GB": {
+          "cheapest": {
+            "name": "CJPacket Special line",
+            "usd": 11.38,
+            "days": [
+              5,
+              9
+            ]
+          },
+          "fastest": {
+            "name": "DHL Official",
+            "usd": 63.63,
+            "days": [
+              3,
+              7
+            ]
+          },
+          "lines": 15
+        }
+      },
+      "money": {
+        "costAud": 32.59,
+        "freightAud": 21.43,
+        "landedAud": 54.02,
+        "retailAud": 115.95,
+        "marginPct": 0.45277442863303147,
+        "netAud": 47.73,
+        "at2x": 0.4196649380449748,
+        "at3x": 0.601410831543418,
+        "sectionMedianAud": 1182.5
+      },
+      "flags": [],
+      "match": 0.6,
+      "score": 0.64,
+      "why": "Battery projectors +173% on Wikipedia and Hacker News; A$47.73 profit a sale at A$115.95; 275 dropshippers list it.",
+      "firstSeen": "2026-10-31",
+      "thin": false
+    },
+    {
+      "pid": "2609040841511625700",
+      "termId": "360-camera",
+      "section": "Work",
+      "name": "4K HD Waterproof Action Camera With Remote Control For Outdoor Cycling",
+      "image": "https://oss-cf.cjdropshipping.com/product/2026/09/04/08/0c4b3613-50c8-4b69-ba2a-ca02ccc4ca19_trans.jpeg",
+      "cjUrl": "https://www.cjdropshipping.com/product/-p-2609040841511625700.html",
+      "listedNum": 1,
+      "cjScope": "category",
+      "variant": {
+        "vid": "2609040841511626600",
+        "name": "4K HD Waterproof Action Camera With Remote Control For Outdoor Cycling Black",
+        "weightG": 420,
+        "priceUsd": 11.81,
+        "auPlug": false,
+        "variantCount": 7
+      },
+      "freight": {
+        "AU": {
+          "cheapest": {
+            "name": "CJPacket Fast Line",
+            "usd": 11.27,
+            "days": [
+              6,
+              10
+            ]
+          },
+          "fastest": {
+            "name": "CJPacket Sensitive",
+            "usd": 13.47,
+            "days": [
+              4,
+              9
+            ]
+          },
+          "lines": 10
+        },
+        "US": {
+          "cheapest": {
+            "name": "CJPacket Super Pure Electricity",
+            "usd": 11.62,
+            "days": [
+              5,
+              11
+            ]
+          },
+          "fastest": {
+            "name": "YunExpress Sensitive",
+            "usd": 12.43,
+            "days": [
+              4,
+              7
+            ]
+          },
+          "lines": 20
+        },
+        "GB": {
+          "cheapest": {
+            "name": "CJPacket Special line",
+            "usd": 7.81,
+            "days": [
+              5,
+              9
+            ]
+          },
+          "fastest": {
+            "name": "YunExpress Sensitive",
+            "usd": 8.14,
+            "days": [
+              4,
+              8
+            ]
+          },
+          "lines": 14
+        }
+      },
+      "money": {
+        "costAud": 16.81,
+        "freightAud": 16.04,
+        "landedAud": 32.85,
+        "retailAud": 70.95,
+        "marginPct": 0.4541465116279069,
+        "netAud": 29.29,
+        "at2x": 0.4151811220621683,
+        "at3x": 0.5995805457301667,
+        "sectionMedianAud": 286
+      },
+      "flags": [],
+      "match": 0.6,
+      "score": 0.623,
+      "why": "360 cameras +452% on Wikipedia and Hacker News; A$29.29 profit a sale at A$70.95; 1 dropshippers list it.",
+      "firstSeen": "2026-10-31",
+      "thin": false
+    },
+    {
       "pid": "2014261561927966722",
-      "termId": "laser-projector",
+      "termId": "battery-projector",
       "section": "Home cinema",
       "name": "Mini Portable Projector - Pocket-sized Home Cinema",
       "image": "https://cf.cjdropshipping.com/f2092cc3-a87a-4dc3-a7c7-595c5b67b4c2.png",
@@ -1338,7 +1526,7 @@
         "GB": {
           "cheapest": {
             "name": "YunExpress Ordinary",
-            "usd": 5.49,
+            "usd": 5.82,
             "days": [
               4,
               7
@@ -1367,10 +1555,338 @@
         "sectionMedianAud": 1182.5
       },
       "flags": [],
-      "match": 0.6,
-      "score": 0.711,
-      "why": "Laser projectors +588% on Wikipedia and Hacker News; A$35.89 profit a sale at A$86.95; 60 dropshippers list it.",
+      "match": 1,
+      "score": 0.589,
+      "why": "Battery projectors +173% on Wikipedia and Hacker News; A$35.89 profit a sale at A$86.95; 60 dropshippers list it.",
       "firstSeen": "2026-10-29",
+      "thin": false
+    },
+    {
+      "pid": "2610271120051624700",
+      "termId": "robot-vacuum",
+      "section": "Smart home",
+      "name": "Automatic Robot Vacuum Cleaner With Self-Cleaning Base Station - Laser Navigation Sweeping Mopping Combo For Home Floor Care",
+      "image": "https://oss-cf.cjdropshipping.com/product/2026/10/27/11/b035abad-c46b-4869-a567-5f354a3c247d.jpg",
+      "cjUrl": "https://www.cjdropshipping.com/product/-p-2610271120051624700.html",
+      "listedNum": 2,
+      "cjScope": "keyword",
+      "variant": {
+        "vid": "2610271120051625600",
+        "name": "Automatic Robot Vacuum Cleaner With Self-Cleaning Base Station - Laser Navigation Sweeping Mopping Combo For Home Floor Care Sweeper EU",
+        "weightG": 1514,
+        "priceUsd": 435.94,
+        "auPlug": false,
+        "variantCount": 1
+      },
+      "freight": {
+        "AU": {
+          "cheapest": {
+            "name": "CJPacket FJTY Eub Special Line",
+            "usd": 29.64,
+            "days": [
+              15,
+              25
+            ]
+          },
+          "fastest": {
+            "name": "CJPacket Sensitive",
+            "usd": 56.8,
+            "days": [
+              4,
+              9
+            ]
+          },
+          "lines": 10
+        },
+        "US": {
+          "cheapest": {
+            "name": "CJPacket FJTY Eub Special Line",
+            "usd": 37.77,
+            "days": [
+              15,
+              25
+            ]
+          },
+          "fastest": {
+            "name": "YunExpress Sensitive",
+            "usd": 78.55,
+            "days": [
+              4,
+              7
+            ]
+          },
+          "lines": 19
+        },
+        "GB": {
+          "cheapest": {
+            "name": "CJPacket Sensitive Oversize Line",
+            "usd": 30.09,
+            "days": [
+              8,
+              16
+            ]
+          },
+          "fastest": {
+            "name": "YunExpress Sensitive",
+            "usd": 52.79,
+            "days": [
+              4,
+              8
+            ]
+          },
+          "lines": 14
+        }
+      },
+      "money": {
+        "costAud": 620.6,
+        "freightAud": 42.2,
+        "landedAud": 662.8,
+        "retailAud": 1407.95,
+        "marginPct": 0.4500347277957314,
+        "netAud": 576.02,
+        "at2x": 0.41799630076548894,
+        "at3x": 0.6013688101762237,
+        "sectionMedianAud": 269.5
+      },
+      "flags": [],
+      "match": 1,
+      "score": 0.578,
+      "why": "Robot vacuums +88% on Wikipedia and Hacker News; A$576.02 profit a sale at A$1407.95; 2 dropshippers list it.",
+      "firstSeen": "2026-10-28",
+      "thin": false
+    },
+    {
+      "pid": "2095348073128439809",
+      "termId": "ai-wearable",
+      "section": "Wearables",
+      "name": "AI Smart Translation Glasses With Camera AI Large Model Chat Object Recognition Bluetooth Calling  Music Playback Wearable Smart Eyeglasses",
+      "image": "https://cf.cjdropshipping.com/e83dab22-4f9c-4b5e-98fc-0120d73aa879.jpeg",
+      "cjUrl": "https://www.cjdropshipping.com/product/-p-2095348073128439809.html",
+      "listedNum": 28,
+      "cjScope": "category",
+      "variant": {
+        "vid": "2095348073199742978",
+        "name": "Clear Lenses  Sunglass Lenses",
+        "weightG": 190,
+        "priceUsd": 35.9,
+        "auPlug": false,
+        "variantCount": 1
+      },
+      "freight": {
+        "AU": {
+          "cheapest": {
+            "name": "CJPacket Eub Special Line",
+            "usd": 7.71,
+            "days": [
+              8,
+              17
+            ]
+          },
+          "fastest": {
+            "name": "CJPacket Sensitive",
+            "usd": 11.25,
+            "days": [
+              4,
+              9
+            ]
+          },
+          "lines": 10
+        },
+        "US": {
+          "cheapest": {
+            "name": "CJPacket Super Pure Electricity",
+            "usd": 7.4,
+            "days": [
+              5,
+              11
+            ]
+          },
+          "fastest": {
+            "name": "YunExpress Sensitive",
+            "usd": 8.24,
+            "days": [
+              4,
+              7
+            ]
+          },
+          "lines": 20
+        },
+        "GB": {
+          "cheapest": {
+            "name": "CJPacket Special line",
+            "usd": 5.17,
+            "days": [
+              5,
+              9
+            ]
+          },
+          "fastest": {
+            "name": "YunExpress Sensitive",
+            "usd": 5.38,
+            "days": [
+              4,
+              8
+            ]
+          },
+          "lines": 14
+        }
+      },
+      "money": {
+        "costAud": 51.11,
+        "freightAud": 10.98,
+        "landedAud": 62.09,
+        "retailAud": 132.95,
+        "marginPct": 0.45189842045881895,
+        "netAud": 54.62,
+        "at2x": 0.4188482993197277,
+        "at3x": 0.601001845413212,
+        "sectionMedianAud": 587
+      },
+      "flags": [
+        "radio"
+      ],
+      "match": 0.6,
+      "score": 0.427,
+      "why": "AI wearables -27% on Wikipedia and Hacker News; A$54.62 profit a sale at A$132.95; 28 dropshippers list it.",
+      "firstSeen": "2026-10-31",
+      "thin": false
+    },
+    {
+      "pid": "2094678030239326209",
+      "termId": "ai-wearable",
+      "section": "Wearables",
+      "name": "New Smart Glasses, Bluetooth Sports Sunglasses, Wearable Device With Call, Music Playback & AI Translation Function",
+      "image": "https://cf.cjdropshipping.com/a7f56832-72a2-4c21-a379-8e545f599936.jpg",
+      "cjUrl": "https://www.cjdropshipping.com/product/-p-2094678030239326209.html",
+      "listedNum": 36,
+      "cjScope": "category",
+      "variant": {
+        "vid": "2094678030310629377",
+        "name": "Black Frame Clear Lens",
+        "weightG": 142,
+        "priceUsd": 29.9,
+        "auPlug": false,
+        "variantCount": 6
+      },
+      "freight": {
+        "AU": {
+          "cheapest": {
+            "name": "CJPacket Eub Special Line",
+            "usd": 6.94,
+            "days": [
+              8,
+              17
+            ]
+          },
+          "fastest": {
+            "name": "CJPacket Sensitive",
+            "usd": 10.79,
+            "days": [
+              4,
+              9
+            ]
+          },
+          "lines": 10
+        },
+        "US": {
+          "cheapest": {
+            "name": "CJPacket Super Pure Electricity",
+            "usd": 6.51,
+            "days": [
+              5,
+              11
+            ]
+          },
+          "fastest": {
+            "name": "YunExpress Sensitive",
+            "usd": 7.28,
+            "days": [
+              4,
+              7
+            ]
+          },
+          "lines": 20
+        },
+        "GB": {
+          "cheapest": {
+            "name": "CJPacket Special line",
+            "usd": 4.62,
+            "days": [
+              5,
+              9
+            ]
+          },
+          "fastest": {
+            "name": "YunExpress Sensitive",
+            "usd": 4.84,
+            "days": [
+              4,
+              8
+            ]
+          },
+          "lines": 14
+        }
+      },
+      "money": {
+        "costAud": 42.57,
+        "freightAud": 9.88,
+        "landedAud": 52.45,
+        "retailAud": 112.95,
+        "marginPct": 0.45437711376715345,
+        "netAud": 46.66,
+        "at2x": 0.41521767508337304,
+        "at3x": 0.6007369104146881,
+        "sectionMedianAud": 587
+      },
+      "flags": [
+        "radio"
+      ],
+      "match": 0.6,
+      "score": 0.384,
+      "why": "AI wearables -27% on Wikipedia and Hacker News; A$46.66 profit a sale at A$112.95; 36 dropshippers list it.",
+      "firstSeen": "2026-10-31",
+      "thin": false
+    },
+    {
+      "pid": "2087732671816167426",
+      "termId": "laser-projector",
+      "section": "Home cinema",
+      "name": "Smart Portable  Theater Projector With Trapezoidal Image Correction,  Wifi 6 Support, Android 12 And Multiple Ports, Mini Size For Phone And Laptop",
+      "image": "https://cf.cjdropshipping.com/dc3f3412-9a0a-4f1d-a32f-82e7a61b3765.jpg",
+      "cjUrl": "https://www.cjdropshipping.com/product/-p-2087732671816167426.html",
+      "listedNum": 49,
+      "cjScope": "category",
+      "variant": {
+        "vid": "2087732671941996546",
+        "name": "Projector",
+        "weightG": 820,
+        "priceUsd": 49.99,
+        "auPlug": false,
+        "variantCount": 1
+      },
+      "freight": {
+        "AU": null,
+        "US": null,
+        "GB": null
+      },
+      "money": {
+        "costAud": 71.17,
+        "freightAud": 0,
+        "landedAud": 71.17,
+        "retailAud": 151.95,
+        "marginPct": 0.45071270154656135,
+        "netAud": 62.26,
+        "at2x": 0.4181384749912556,
+        "at3x": 0.6006449871465295,
+        "sectionMedianAud": 1182.5
+      },
+      "flags": [
+        "radio"
+      ],
+      "match": 0.6,
+      "score": 0.352,
+      "why": "Laser projectors +224% on Wikipedia and Hacker News; A$62.26 profit a sale at A$151.95; 49 dropshippers list it.",
+      "firstSeen": "2026-10-31",
       "thin": false
     },
     {
@@ -1402,7 +1918,7 @@
           },
           "fastest": {
             "name": "CJPacket Sensitive",
-            "usd": 19.13,
+            "usd": 19.74,
             "days": [
               4,
               9
@@ -1431,16 +1947,16 @@
         },
         "GB": {
           "cheapest": {
-            "name": "YunExpress Sensitive",
-            "usd": 10.55,
+            "name": "CJPacket Special line",
+            "usd": 10.57,
             "days": [
-              4,
-              8
+              5,
+              9
             ]
           },
           "fastest": {
             "name": "YunExpress Sensitive",
-            "usd": 10.55,
+            "usd": 10.95,
             "days": [
               4,
               8
@@ -1462,8 +1978,8 @@
       },
       "flags": [],
       "match": 0.6,
-      "score": 0.597,
-      "why": "Robot vacuums +999% on Wikipedia and Hacker News; A$23.76 profit a sale at A$57.95; 2 dropshippers list it.",
+      "score": 0.327,
+      "why": "Robot vacuums +88% on Wikipedia and Hacker News; A$23.76 profit a sale at A$57.95; 2 dropshippers list it.",
       "firstSeen": "2026-10-24",
       "thin": false
     },
@@ -1488,7 +2004,7 @@
         "AU": {
           "cheapest": {
             "name": "CJPacket Sensitive",
-            "usd": 167.95,
+            "usd": 180.98,
             "days": [
               4,
               9
@@ -1496,7 +2012,7 @@
           },
           "fastest": {
             "name": "CJPacket Sensitive",
-            "usd": 167.95,
+            "usd": 180.98,
             "days": [
               4,
               9
@@ -1545,21 +2061,21 @@
       },
       "money": {
         "costAud": 315.58,
-        "freightAud": 239.09,
-        "landedAud": 554.67,
-        "retailAud": 1178.95,
-        "marginPct": 0.450294325459095,
-        "netAud": 482.61,
-        "at2x": 0.41810495517816115,
-        "at3x": 0.6014421424066788,
+        "freightAud": 257.64,
+        "landedAud": 573.22,
+        "retailAud": 1217.95,
+        "marginPct": 0.4501214294511268,
+        "netAud": 498.39,
+        "at2x": 0.4180568420593749,
+        "at3x": 0.6013032907933369,
         "sectionMedianAud": 1362
       },
       "flags": [
         "heavy"
       ],
       "match": 1,
-      "score": 0.323,
-      "why": "E-scooters +26% on Wikipedia; A$482.61 profit a sale at A$1178.95; 0 dropshippers list it.",
+      "score": 0.313,
+      "why": "E-scooters +14% on Wikipedia; A$498.39 profit a sale at A$1217.95; 0 dropshippers list it.",
       "firstSeen": "2026-10-30",
       "thin": false
     },
@@ -1592,7 +2108,7 @@
           },
           "fastest": {
             "name": "CJPacket Sensitive",
-            "usd": 10.39,
+            "usd": 10.49,
             "days": [
               4,
               9
@@ -1630,7 +2146,7 @@
           },
           "fastest": {
             "name": "YunExpress Sensitive",
-            "usd": 4.43,
+            "usd": 4.49,
             "days": [
               4,
               8
@@ -1653,50 +2169,8 @@
       "flags": [],
       "match": 0.6,
       "score": 0.303,
-      "why": "AI recorders -20% on Wikipedia and Hacker News; A$38.29 profit a sale at A$92.95; 3 dropshippers list it.",
+      "why": "AI recorders -22% on Wikipedia and Hacker News; A$38.29 profit a sale at A$92.95; 3 dropshippers list it.",
       "firstSeen": "2026-10-29",
-      "thin": false
-    },
-    {
-      "pid": "2110654553117855746",
-      "termId": "robot-vacuum",
-      "section": "Smart home",
-      "name": "63\" TV Stand with RGB LED Lights, Arched Fluted Glass Doors, Soft Close Hinges, Robot Vacuum Friendly TV Console Table, Media Storage Cabinet for Living Room, Wash Grey",
-      "image": "https://cf.cjdropshipping.com/saleyee-import/654aaba343b34ed4a69d489ed8ea94a9.png",
-      "cjUrl": "https://www.cjdropshipping.com/product/-p-2110654553117855746.html",
-      "listedNum": 2,
-      "cjScope": "keyword",
-      "variant": {
-        "vid": "2110654554195791873",
-        "name": "16622999",
-        "weightG": 25250,
-        "priceUsd": 105.96,
-        "auPlug": false,
-        "variantCount": 1
-      },
-      "freight": {
-        "AU": null,
-        "US": null,
-        "GB": null
-      },
-      "money": {
-        "costAud": 150.84,
-        "freightAud": 0,
-        "landedAud": 150.84,
-        "retailAud": 320.95,
-        "marginPct": 0.4500940800747779,
-        "netAud": 131.33,
-        "at2x": 0.4174989071038249,
-        "at3x": 0.6010528645545866,
-        "sectionMedianAud": 269.5
-      },
-      "flags": [
-        "heavy"
-      ],
-      "match": 1,
-      "score": 0.298,
-      "why": "Robot vacuums +999% on Wikipedia and Hacker News; A$131.33 profit a sale at A$320.95; 2 dropshippers list it.",
-      "firstSeen": "2026-10-24",
       "thin": false
     },
     {
@@ -1757,16 +2231,16 @@
         },
         "GB": {
           "cheapest": {
-            "name": "YunExpress Ordinary",
-            "usd": 84.62,
+            "name": "CJPacket Ordinary",
+            "usd": 86.16,
             "days": [
               4,
-              7
+              9
             ]
           },
           "fastest": {
             "name": "YunExpress Ordinary",
-            "usd": 84.62,
+            "usd": 90.04,
             "days": [
               4,
               7
@@ -1790,14 +2264,14 @@
         "heavy"
       ],
       "match": 0.6,
-      "score": 0.283,
-      "why": "E-scooters +26% on Wikipedia; A$152.99 profit a sale at A$372.95; 0 dropshippers list it.",
+      "score": 0.273,
+      "why": "E-scooters +14% on Wikipedia; A$152.99 profit a sale at A$372.95; 0 dropshippers list it.",
       "firstSeen": "2026-10-28",
       "thin": false
     },
     {
       "pid": "2045397744410615809",
-      "termId": "laser-projector",
+      "termId": "battery-projector",
       "section": "Home cinema",
       "name": "Portable Wired Mobile Phone Projector With Extendable Stand, LED Mini Home Video Device, 1080p HD Screen, USB SD AV HD",
       "image": "https://cf.cjdropshipping.com/db21cc36-21a3-40a7-b4fe-53a1ccb0a734.jpg",
@@ -1830,106 +2304,92 @@
       },
       "flags": [],
       "match": 0.6,
-      "score": 0.269,
-      "why": "Laser projectors +588% on Wikipedia and Hacker News; A$28.42 profit a sale at A$68.95; 67 dropshippers list it.",
+      "score": 0.107,
+      "why": "Battery projectors +173% on Wikipedia and Hacker News; A$28.42 profit a sale at A$68.95; 67 dropshippers list it.",
       "firstSeen": "2026-10-29",
       "thin": false
     },
     {
-      "pid": "2609070951271626800",
-      "termId": "qi2-power-bank",
-      "section": "Power",
-      "name": "Magnetic Wireless Charging Solar-Powered Power Bank Outdoor Rugged Fast-Charging Portable Charger",
-      "image": "https://cf.cjdropshipping.com/quick/product/3ba953fe-b450-442f-a0de-e1521b642851.jpg",
-      "cjUrl": "https://www.cjdropshipping.com/product/-p-2609070951271626800.html",
-      "listedNum": 6,
+      "pid": "2069714608557056002",
+      "termId": "laser-projector",
+      "section": "Home cinema",
+      "name": "Projector HD For Home Theater Office 360 Degree Rotatable PTZ Portable Mini HY320 AU Plug 110‑220V Black",
+      "image": "https://cf.cjdropshipping.com/17822592/36e6153e-a182-469e-9a1f-22baadee5c02.jpg",
+      "cjUrl": "https://www.cjdropshipping.com/product/-p-2069714608557056002.html",
+      "listedNum": 34,
       "cjScope": "category",
       "variant": {
-        "vid": "2609070951271627700",
-        "name": "Magnetic Wireless Charging Solar-Powered Power Bank Outdoor Rugged Fast-Charging Portable Charger Black Orange",
-        "weightG": 700,
-        "priceUsd": 17.36,
+        "vid": "2069714608703856641",
+        "name": "Default",
+        "weightG": 1041,
+        "priceUsd": 52.75,
         "auPlug": false,
-        "variantCount": 4
+        "variantCount": 1
       },
       "freight": {
-        "AU": {
-          "cheapest": {
-            "name": "CJPacket Super Pure Electricity",
-            "usd": 16.21,
-            "days": [
-              6,
-              14
-            ]
-          },
-          "fastest": {
-            "name": "CJPacket Super Pure Electricity",
-            "usd": 16.21,
-            "days": [
-              6,
-              14
-            ]
-          },
-          "lines": 2
-        },
-        "US": {
-          "cheapest": {
-            "name": "CJPacket Super Pure Electricity",
-            "usd": 18.84,
-            "days": [
-              5,
-              11
-            ]
-          },
-          "fastest": {
-            "name": "CJPacket Super Pure Electricity",
-            "usd": 18.84,
-            "days": [
-              5,
-              11
-            ]
-          },
-          "lines": 3
-        },
-        "GB": {
-          "cheapest": {
-            "name": "CJPacket Pure Electricity",
-            "usd": 14.18,
-            "days": [
-              13,
-              18
-            ]
-          },
-          "fastest": {
-            "name": "CJPacket Pure Electricity",
-            "usd": 14.18,
-            "days": [
-              13,
-              18
-            ]
-          },
-          "lines": 3
-        }
+        "AU": null,
+        "US": null,
+        "GB": null
       },
       "money": {
-        "costAud": 24.71,
-        "freightAud": 23.08,
-        "landedAud": 47.79,
-        "retailAud": 102.95,
-        "marginPct": 0.45426804273919374,
-        "netAud": 42.52,
-        "at2x": 0.4167816050026055,
-        "at3x": 0.600618235498437,
-        "sectionMedianAud": 119.96
+        "costAud": 75.09,
+        "freightAud": 0,
+        "landedAud": 75.09,
+        "retailAud": 160.95,
+        "marginPct": 0.45285302889095985,
+        "netAud": 66.26,
+        "at2x": 0.4187194104007949,
+        "at3x": 0.6010763221951758,
+        "sectionMedianAud": 1182.5
       },
       "flags": [
-        "battery",
-        "mains",
-        "radio"
+        "mains"
       ],
       "match": 0.6,
-      "score": 0.111,
-      "why": "Qi2 power banks +28% on Wikipedia; A$42.52 profit a sale at A$102.95; 6 dropshippers list it.",
+      "score": 0.097,
+      "why": "Laser projectors +224% on Wikipedia and Hacker News; A$66.26 profit a sale at A$160.95; 34 dropshippers list it.",
+      "firstSeen": "2026-10-31",
+      "thin": false
+    },
+    {
+      "pid": "2110654553117855746",
+      "termId": "robot-vacuum",
+      "section": "Smart home",
+      "name": "63\" TV Stand with RGB LED Lights, Arched Fluted Glass Doors, Soft Close Hinges, Robot Vacuum Friendly TV Console Table, Media Storage Cabinet for Living Room, Wash Grey",
+      "image": "https://cf.cjdropshipping.com/saleyee-import/654aaba343b34ed4a69d489ed8ea94a9.png",
+      "cjUrl": "https://www.cjdropshipping.com/product/-p-2110654553117855746.html",
+      "listedNum": 2,
+      "cjScope": "keyword",
+      "variant": {
+        "vid": "2110654554195791873",
+        "name": "16622999",
+        "weightG": 25250,
+        "priceUsd": 105.96,
+        "auPlug": false,
+        "variantCount": 1
+      },
+      "freight": {
+        "AU": null,
+        "US": null,
+        "GB": null
+      },
+      "money": {
+        "costAud": 150.84,
+        "freightAud": 0,
+        "landedAud": 150.84,
+        "retailAud": 320.95,
+        "marginPct": 0.4500940800747779,
+        "netAud": 131.33,
+        "at2x": 0.4174989071038249,
+        "at3x": 0.6010528645545866,
+        "sectionMedianAud": 269.5
+      },
+      "flags": [
+        "heavy"
+      ],
+      "match": 1,
+      "score": 0.028,
+      "why": "Robot vacuums +88% on Wikipedia and Hacker News; A$131.33 profit a sale at A$320.95; 2 dropshippers list it.",
       "firstSeen": "2026-10-24",
       "thin": false
     },
@@ -1970,8 +2430,8 @@
         "radio"
       ],
       "match": 0.6,
-      "score": 0.028,
-      "why": "Keyboards +9% on Wikipedia; A$111.81 profit a sale at A$272.95; 1 dropshippers list it.",
+      "score": 0.026,
+      "why": "Keyboards +7% on Wikipedia; A$111.81 profit a sale at A$272.95; 1 dropshippers list it.",
       "firstSeen": "2026-10-28",
       "thin": false
     },
@@ -1982,7 +2442,7 @@
       "name": "6L Automatic Cat Feeder for 2 Cats, Timed Cat Food Dispenser with 2 Stainless Bowls, 10s Voice Recorder, Dual Power Supply, 6 Meals 50 Portions Per Day, Dual Pet Feeder for Cat and Dog",
       "image": "https://cf.cjdropshipping.com/doba-import/c08752cf4fad4b6b8bafbfd13a1e7992.jpg",
       "cjUrl": "https://www.cjdropshipping.com/product/-p-2102734317016023041.html",
-      "listedNum": 41,
+      "listedNum": 42,
       "cjScope": "keyword",
       "variant": {
         "vid": "2102734317196378113",
@@ -2013,8 +2473,177 @@
       ],
       "match": 1,
       "score": -0.046,
-      "why": "AI recorders -20% on Wikipedia and Hacker News; A$71.37 profit a sale at A$173.95; 41 dropshippers list it.",
+      "why": "AI recorders -22% on Wikipedia and Hacker News; A$71.37 profit a sale at A$173.95; 42 dropshippers list it.",
       "firstSeen": "2026-10-29",
+      "thin": false
+    },
+    {
+      "pid": "2093532440459505666",
+      "termId": "portable-speaker",
+      "section": "Audio",
+      "name": "Portable Speakers With Dynamic Colourful LED Lights Bluetooth Speaker For Home Outdoor Travel TWS Pairing USB TF Playback FM Radio Hands Free Call Ideal For Parties Garden Beach",
+      "image": "https://cf.cjdropshipping.com/7c5c8687-400d-4c22-a382-94f88d787953.jpg",
+      "cjUrl": "https://www.cjdropshipping.com/product/-p-2093532440459505666.html",
+      "listedNum": 22,
+      "cjScope": "category",
+      "variant": {
+        "vid": "2093532440572751873",
+        "name": "YB742",
+        "weightG": 1900,
+        "priceUsd": 24.5,
+        "auPlug": false,
+        "variantCount": 1
+      },
+      "freight": {
+        "AU": null,
+        "US": null,
+        "GB": null
+      },
+      "money": {
+        "costAud": 34.88,
+        "freightAud": 0,
+        "landedAud": 34.88,
+        "retailAud": 74.95,
+        "marginPct": 0.45178245496997993,
+        "netAud": 30.78,
+        "at2x": 0.41487626876340233,
+        "at3x": 0.5993720343020487,
+        "sectionMedianAud": 271
+      },
+      "flags": [
+        "radio"
+      ],
+      "match": 0.6,
+      "score": -0.108,
+      "why": "Portable speakers +8% on Wikipedia; A$30.78 profit a sale at A$74.95; 22 dropshippers list it.",
+      "firstSeen": "2026-10-31",
+      "thin": false
+    },
+    {
+      "pid": "2116455747896401922",
+      "termId": "light-strip",
+      "section": "Smart home",
+      "name": "Hydraulic Bed, Wooden Bed, With LED Strip Light, 4ft6 Double Bed 135x190cm, Headboard Features A Soft Backrest And Storage Compartments, Wood MDF, White",
+      "image": "https://cf.cjdropshipping.com/3db5070a-a8bd-480b-98be-ff2a3da7b7de.jpg",
+      "cjUrl": "https://www.cjdropshipping.com/product/-p-2116455747896401922.html",
+      "listedNum": 0,
+      "cjScope": "keyword",
+      "variant": {
+        "vid": "2116455748408107010",
+        "name": "White",
+        "weightG": 67750,
+        "priceUsd": 332.98,
+        "auPlug": false,
+        "variantCount": 1
+      },
+      "freight": {
+        "AU": null,
+        "US": null,
+        "GB": null
+      },
+      "money": {
+        "costAud": 474.03,
+        "freightAud": 0,
+        "landedAud": 474.03,
+        "retailAud": 1007.95,
+        "marginPct": 0.45045229922119157,
+        "netAud": 412.76,
+        "at2x": 0.41826808051003733,
+        "at3x": 0.6014230261077339,
+        "sectionMedianAud": 269.5
+      },
+      "flags": [
+        "heavy"
+      ],
+      "match": 0.6,
+      "score": -0.139,
+      "why": "Smart lighting +1% on Wikipedia; A$412.76 profit a sale at A$1007.95; 0 dropshippers list it.",
+      "firstSeen": "2026-10-31",
+      "thin": false
+    },
+    {
+      "pid": "2116419790216290305",
+      "termId": "light-strip",
+      "section": "Smart home",
+      "name": "180cm TV Unit Lowboard, TV Stand For Up To 75 Inch TV, Natural Wood Black Entertainment Unit With Glass Doors & LED Light Strip, Large Storage Cabinets Media Console For Living Room, Max Load 30kg",
+      "image": "https://cf.cjdropshipping.com/4f2593d3-9649-4e56-9b71-f41aef4a7812.jpg",
+      "cjUrl": "https://www.cjdropshipping.com/product/-p-2116419790216290305.html",
+      "listedNum": 0,
+      "cjScope": "keyword",
+      "variant": {
+        "vid": "2116419790476337154",
+        "name": "Natural",
+        "weightG": 38900,
+        "priceUsd": 130.54,
+        "auPlug": false,
+        "variantCount": 1
+      },
+      "freight": {
+        "AU": null,
+        "US": null,
+        "GB": null
+      },
+      "money": {
+        "costAud": 185.84,
+        "freightAud": 0,
+        "landedAud": 185.84,
+        "retailAud": 395.95,
+        "marginPct": 0.450979151408006,
+        "netAud": 162.33,
+        "at2x": 0.41761203118698753,
+        "at3x": 0.601124464557756,
+        "sectionMedianAud": 269.5
+      },
+      "flags": [
+        "heavy"
+      ],
+      "match": 0.6,
+      "score": -0.139,
+      "why": "Smart lighting +1% on Wikipedia; A$162.33 profit a sale at A$395.95; 0 dropshippers list it.",
+      "firstSeen": "2026-10-31",
+      "thin": false
+    },
+    {
+      "pid": "2109950864828829698",
+      "termId": "qi2-power-bank",
+      "section": "Power",
+      "name": "-10000mAh Magnetic Wireless Power Bank Super Fast Charging Portable External Battery Pack For -IPhone -Samsung -Huawei",
+      "image": "https://cf.cjdropshipping.com/77e0db1c-da11-47cf-821e-894e4839f04d.png",
+      "cjUrl": "https://www.cjdropshipping.com/product/-p-2109950864828829698.html",
+      "listedNum": 5,
+      "cjScope": "category",
+      "variant": {
+        "vid": "2109950864954658818",
+        "name": "A",
+        "weightG": 127,
+        "priceUsd": 18,
+        "auPlug": false,
+        "variantCount": 3
+      },
+      "freight": {
+        "AU": null,
+        "US": null,
+        "GB": null
+      },
+      "money": {
+        "costAud": 25.62,
+        "freightAud": 0,
+        "landedAud": 25.62,
+        "retailAud": 55.95,
+        "marginPct": 0.45850214477211787,
+        "netAud": 23.32,
+        "at2x": 0.41926458132820016,
+        "at3x": 0.5975736842105263,
+        "sectionMedianAud": 119.96
+      },
+      "flags": [
+        "battery",
+        "radio"
+      ],
+      "match": 0.6,
+      "score": -0.178,
+      "why": "Qi2 power banks 0% on Wikipedia; A$23.32 profit a sale at A$55.95; 5 dropshippers list it.",
+      "firstSeen": "2026-10-31",
       "thin": false
     },
     {
@@ -2056,11 +2685,11 @@
         },
         "US": {
           "cheapest": {
-            "name": "CJPacket Postal",
-            "usd": 4.6,
+            "name": "CJPacket Pure Electricity",
+            "usd": 5.01,
             "days": [
-              5,
-              9
+              7,
+              14
             ]
           },
           "fastest": {
@@ -2154,13 +2783,55 @@
       "thin": true
     },
     {
+      "pid": "2110545389754421249",
+      "termId": "portable-speaker",
+      "section": "Audio",
+      "name": "Portable Bluetooth Speaker With LED Lights&Transparent Casing, Bluetooth 5.3 Wireless Outdoor Speakers Support TWS PairingTF Card, 10W Stereo Sound, Electronics For Home, Outdoors, Travel Black",
+      "image": "https://cf.cjdropshipping.com/51062402-e8ba-497c-9713-ccad8bb0f352.jpg",
+      "cjUrl": "https://www.cjdropshipping.com/product/-p-2110545389754421249.html",
+      "listedNum": 14,
+      "cjScope": "category",
+      "variant": {
+        "vid": "2110545389917999106",
+        "name": "XJZM001",
+        "weightG": 380,
+        "priceUsd": 9,
+        "auPlug": false,
+        "variantCount": 1
+      },
+      "freight": {
+        "AU": null,
+        "US": null,
+        "GB": null
+      },
+      "money": {
+        "costAud": 12.81,
+        "freightAud": 0,
+        "landedAud": 12.81,
+        "retailAud": 27.95,
+        "marginPct": 0.4521429338103756,
+        "netAud": 11.49,
+        "at2x": 0.4123774566473988,
+        "at3x": 0.5978560975609756,
+        "sectionMedianAud": 271
+      },
+      "flags": [
+        "radio"
+      ],
+      "match": 1,
+      "score": -0.187,
+      "why": "Portable speakers +8% on Wikipedia; A$11.49 profit a sale at A$27.95; 14 dropshippers list it.",
+      "firstSeen": "2026-10-31",
+      "thin": true
+    },
+    {
       "pid": "2109949010568720385",
       "termId": "qi2-power-bank",
       "section": "Power",
       "name": "20W Magnetic Wireless Power Bank -10000mAh Portable Fast Charging MagSafe Compatible For -IPhone 15 Pro Max 16 Pro",
       "image": "https://cf.cjdropshipping.com/044b7772-bfaa-4cdb-8eda-5e5ce07bd72b.jpg",
       "cjUrl": "https://www.cjdropshipping.com/product/-p-2109949010568720385.html",
-      "listedNum": 6,
+      "listedNum": 8,
       "cjScope": "category",
       "variant": {
         "vid": "2109949010979762177",
@@ -2191,9 +2862,53 @@
         "radio"
       ],
       "match": 0.6,
-      "score": -0.172,
-      "why": "Qi2 power banks +28% on Wikipedia; A$19.67 profit a sale at A$46.95; 6 dropshippers list it.",
+      "score": -0.193,
+      "why": "Qi2 power banks 0% on Wikipedia; A$19.67 profit a sale at A$46.95; 8 dropshippers list it.",
       "firstSeen": "2026-10-30",
+      "thin": true
+    },
+    {
+      "pid": "2101752256697331713",
+      "termId": "portable-speaker",
+      "section": "Audio",
+      "name": "Bluetooth 5.0 Wireless Sleep Headphones Eye Mask With Built-in Speakers, Rechargeable Battery",
+      "image": "https://cf.cjdropshipping.com/17898624/7f9b7746-58e7-4aad-988c-20c8517aa042.jpg",
+      "cjUrl": "https://www.cjdropshipping.com/product/-p-2101752256697331713.html",
+      "listedNum": 21,
+      "cjScope": "category",
+      "variant": {
+        "vid": "2101752256848326657",
+        "name": "Standard",
+        "weightG": 600,
+        "priceUsd": 11.99,
+        "auPlug": false,
+        "variantCount": 1
+      },
+      "freight": {
+        "AU": null,
+        "US": null,
+        "GB": null
+      },
+      "money": {
+        "costAud": 17.07,
+        "freightAud": 0,
+        "landedAud": 17.07,
+        "retailAud": 36.95,
+        "marginPct": 0.450995805142084,
+        "netAud": 15.15,
+        "at2x": 0.42140472103004295,
+        "at3x": 0.600304042348412,
+        "sectionMedianAud": 271
+      },
+      "flags": [
+        "battery",
+        "radio",
+        "skin"
+      ],
+      "match": 0.6,
+      "score": -0.2,
+      "why": "Portable speakers +8% on Wikipedia; A$15.15 profit a sale at A$36.95; 21 dropshippers list it.",
+      "firstSeen": "2026-10-31",
       "thin": true
     },
     {
@@ -2203,7 +2918,7 @@
       "name": "Gaming Keyboard And Mouse Set RGB LED USB For PC Laptop Xbox One PS4 PS5",
       "image": "https://cf.cjdropshipping.com/5b6c65c5-0ecf-44e1-9d43-587b610b7703.jpg",
       "cjUrl": "https://www.cjdropshipping.com/product/-p-2114632022455025665.html",
-      "listedNum": 5,
+      "listedNum": 8,
       "cjScope": "keyword",
       "variant": {
         "vid": "2114632022614409217",
@@ -2231,89 +2946,9 @@
       },
       "flags": [],
       "match": 0.6,
-      "score": -0.211,
-      "why": "Keyboards +9% on Wikipedia; A$16.35 profit a sale at A$39.95; 5 dropshippers list it.",
+      "score": -0.207,
+      "why": "Keyboards +7% on Wikipedia; A$16.35 profit a sale at A$39.95; 8 dropshippers list it.",
       "firstSeen": "2026-10-28",
-      "thin": true
-    },
-    {
-      "pid": "2116015067207172098",
-      "termId": "light-strip",
-      "section": "Smart home",
-      "name": "Strip LED 150 Light Warm White With Box Indoor",
-      "image": "https://cf.cjdropshipping.com/17933184/25c6cbc8-a6aa-4804-b751-8974e7a283b1.jpg",
-      "cjUrl": "https://www.cjdropshipping.com/product/-p-2116015067207172098.html",
-      "listedNum": 0,
-      "cjScope": "keyword",
-      "variant": {
-        "vid": "2116015067387527170",
-        "name": "White",
-        "weightG": 100,
-        "priceUsd": 6.76,
-        "auPlug": false,
-        "variantCount": 1
-      },
-      "freight": {
-        "AU": null,
-        "US": null,
-        "GB": null
-      },
-      "money": {
-        "costAud": 9.62,
-        "freightAud": 0,
-        "landedAud": 9.62,
-        "retailAud": 21.95,
-        "marginPct": 0.47097015945330295,
-        "netAud": 9.4,
-        "at2x": 0.42113258145363397,
-        "at3x": 0.5911742659758203,
-        "sectionMedianAud": 269.5
-      },
-      "flags": [],
-      "match": 0.6,
-      "score": -0.277,
-      "why": "Smart lighting +9% on Wikipedia; A$9.40 profit a sale at A$21.95; 0 dropshippers list it.",
-      "firstSeen": "2026-10-30",
-      "thin": true
-    },
-    {
-      "pid": "2115987179278757889",
-      "termId": "light-strip",
-      "section": "Smart home",
-      "name": "Strip 50 Bulbs LED Multicolor",
-      "image": "https://cf.cjdropshipping.com/17933184/333f466f-3d08-45f5-aeac-9c0c2010155e.jpg",
-      "cjUrl": "https://www.cjdropshipping.com/product/-p-2115987179278757889.html",
-      "listedNum": 0,
-      "cjScope": "keyword",
-      "variant": {
-        "vid": "2115987179773685761",
-        "name": "Multicolor",
-        "weightG": 80,
-        "priceUsd": 3.86,
-        "auPlug": false,
-        "variantCount": 1
-      },
-      "freight": {
-        "AU": null,
-        "US": null,
-        "GB": null
-      },
-      "money": {
-        "costAud": 5.5,
-        "freightAud": 0,
-        "landedAud": 5.5,
-        "retailAud": 12.95,
-        "marginPct": 0.47543590733590735,
-        "netAud": 5.6,
-        "at2x": 0.4342087866108786,
-        "at3x": 0.5916988200589969,
-        "sectionMedianAud": 269.5
-      },
-      "flags": [],
-      "match": 0.6,
-      "score": -0.299,
-      "why": "Smart lighting +9% on Wikipedia; A$5.60 profit a sale at A$12.95; 0 dropshippers list it.",
-      "firstSeen": "2026-10-30",
       "thin": true
     },
     {
@@ -2323,7 +2958,7 @@
       "name": "Magsafe Power Bank Portable Charger Magnetic Battery Pack For IPhone Samsung UK",
       "image": "https://cf.cjdropshipping.com/17919360/19b17ab8-8114-413c-9139-568e9303b147.jpg",
       "cjUrl": "https://www.cjdropshipping.com/product/-p-2110252223041810434.html",
-      "listedNum": 7,
+      "listedNum": 8,
       "cjScope": "category",
       "variant": {
         "vid": "2110252223213776898",
@@ -2354,83 +2989,41 @@
         "mains"
       ],
       "match": 0.6,
-      "score": -0.421,
-      "why": "Qi2 power banks +28% on Wikipedia; A$19.51 profit a sale at A$46.95; 7 dropshippers list it.",
+      "score": -0.444,
+      "why": "Qi2 power banks 0% on Wikipedia; A$19.51 profit a sale at A$46.95; 8 dropshippers list it.",
       "firstSeen": "2026-10-24",
       "thin": true
     }
   ],
   "rejected": [
     {
-      "pid": "2115721879215484930",
-      "termId": "qi2-power-bank",
-      "name": "20000mAh High-capacity Portable Power Bank 120W Ultra Fast Charging LED Digital Display Screen  Power Bank",
-      "reason": "no \"magnetic\""
-    },
-    {
-      "pid": "2610260852041600500",
-      "termId": "qi2-power-bank",
-      "name": "Portable Fast-charging Power Bank With Cable",
-      "reason": "no \"magnetic\""
-    },
-    {
-      "pid": "2113544347577270274",
-      "termId": "qi2-power-bank",
-      "name": "Mini Portable Charger 4500mAh USB C 20W Fast Charging Power Bank Compact Lightweight Battery Pack With Cable For IPhone 17 16 15 Pro Max Smartphones Travel And Everyday Outdoor Use",
-      "reason": "no \"magnetic\""
-    },
-    {
-      "pid": "2610160929221625400",
-      "termId": "qi2-power-bank",
-      "name": "Super Fast Charging Power Bank With Extra-Large Capacity",
-      "reason": "no \"magnetic\""
-    },
-    {
-      "pid": "2109926745823162369",
-      "termId": "qi2-power-bank",
-      "name": "20000mAh High Capacity Power Bank 65W USB-C PD Fast Charging Portable External Battery Pack, Multi Port Output Charger For Laptops, Mobile Phones, Tablets, Lightweight",
-      "reason": "no \"magnetic\""
-    },
-    {
-      "pid": "2109917869136715777",
-      "termId": "qi2-power-bank",
-      "name": "45W High Speed PD Fast Charging 20000mAh Portable Power Bank, Compact External Battery Charger Pack, USB C Input & Output Powerbank With Smart Digital Display, Universal Compatibility For Cell Phones",
-      "reason": "no \"magnetic\""
-    },
-    {
-      "pid": "2610300844231609400",
+      "pid": "2610310325511602900",
       "termId": "e-scooter",
-      "name": "Heated Five-Finger Sports Skiing Electric Heating Warm Gloves",
+      "name": "Professional Rechargeable Electric Hair Clipper For Men",
       "reason": "no \"scooter\""
     },
     {
-      "pid": "2610300336531625700",
+      "pid": "2610310321181620800",
       "termId": "e-scooter",
-      "name": "Heated Shawl Blanket With Electric Heating",
+      "name": "Wireless Waxing Machine Compact Electric Car Detailing Scratch Removal",
       "reason": "no \"scooter\""
     },
     {
-      "pid": "2610300316241639000",
+      "pid": "2610310104571616700",
       "termId": "e-scooter",
-      "name": "Electric Throttle Grip With Ignition Switch And Handlebar Cover Tool",
+      "name": "Pump-style Electric Sauce Warmer Sauce Dispenser",
       "reason": "no \"scooter\""
     },
     {
-      "pid": "2610300207221636900",
+      "pid": "2116392259278790657",
       "termId": "e-scooter",
-      "name": "USB Heated Electric Blanket Plaid Pattern - Thickened Wearable Shawl Cape For Office Nap Winter Warmth",
-      "reason": "no \"scooter\""
+      "name": "Electric Charcoal Burner for Hookah - 500W Fast Heating, 5 Temperature Gears, Thermostat Safety & Stainless Steel Coil, Bonus Accessories for Outdoor/Indoor Use",
+      "reason": "has \"accessories\""
     },
     {
-      "pid": "2116105595345043457",
+      "pid": "2116363329881636866",
       "termId": "e-scooter",
-      "name": "Electric Engine Water Pump 11517586925 For BMW 128i 325i 328i 528i 530i 525xi X5",
-      "reason": "no \"scooter\""
-    },
-    {
-      "pid": "2116092181951344641",
-      "termId": "e-scooter",
-      "name": "Electric Water Pump For 16032-25010 -Toyota Camry RAV4 Avalon 2.5L",
+      "name": "Cordless Tiller Cultivator,800W Electric Cordless Tiller Cultivator, 21V Battery Powered Soil Tiller with 6.69\" Depth 8.66\" Width, Handheld Garden Cultivator  for Garden Yard Planting",
       "reason": "no \"scooter\""
     },
     {
@@ -2440,112 +3033,70 @@
       "reason": "no \"bluetooth\""
     },
     {
+      "pid": "2116015215807168513",
+      "termId": "portable-speaker",
+      "name": "Speaker Square Long",
+      "reason": "no \"bluetooth\""
+    },
+    {
+      "pid": "2116015137621147649",
+      "termId": "portable-speaker",
+      "name": "Speaker Round Black",
+      "reason": "no \"bluetooth\""
+    },
+    {
+      "pid": "2115986996454359042",
+      "termId": "portable-speaker",
+      "name": "Speaker With Light",
+      "reason": "no \"bluetooth\""
+    },
+    {
+      "pid": "2115688923014184962",
+      "termId": "portable-speaker",
+      "name": "Speaker Light",
+      "reason": "no \"bluetooth\""
+    },
+    {
+      "pid": "2609110848071605300",
+      "termId": "portable-speaker",
+      "name": "Large-volume All-in-one K Speaker With Microphone For Plazas",
+      "reason": "no \"bluetooth\""
+    },
+    {
+      "pid": "2116277851621748738",
+      "termId": "keyboard",
+      "name": "Wired Over Ear Headphones Hi-Res Studio Monitor & Mixing DJ Stereo Headsets With 50mm Drivers And 1 4 To 3.5mm Jack For AMP Computer Recording Podcast Keyboard Guitar Laptop - Light Pink",
+      "reason": "no \"mechanical\""
+    },
+    {
+      "pid": "2116275475799683073",
+      "termId": "keyboard",
+      "name": "Wired DJ Hi-Res Over-Ear Headphones For PC, Keyboard Guitar - Black",
+      "reason": "no \"mechanical\""
+    },
+    {
+      "pid": "2116289409480523778",
+      "termId": "keyboard",
+      "name": "6-Piece Mechanical Yo-Yo Fishing Reel Set, Spring-Loaded Automatic Fish Traps With Flat Trigger Mechanism For Hands-Free Fishing And Outdoor Use",
+      "reason": "no \"keyboard\""
+    },
+    {
+      "pid": "2116286481502892034",
+      "termId": "keyboard",
+      "name": "Wired DJ Hi-Res Over-Ear Headphones For PC, Keyboard Guitar",
+      "reason": "no \"mechanical\""
+    },
+    {
       "pid": "2116037943796826114",
       "termId": "keyboard",
       "name": "Dual-tube X-Shape Keyboard Stand + Adjustable Folding Piano Bench Stool Seat Black",
       "reason": "has \"piano\""
     },
     {
-      "pid": "2610290757121602100",
-      "termId": "keyboard",
-      "name": "Men's Dual-calendar Automatic Mechanical Watch",
-      "reason": "no \"keyboard\""
-    },
-    {
-      "pid": "2610280653001602900",
-      "termId": "keyboard",
-      "name": "Soft Rebound Memory Foam Non-slip Office Electric Sports Massage Keyboard Hand Protection Pad",
-      "reason": "no \"mechanical\""
-    },
-    {
-      "pid": "2114914100175761409",
-      "termId": "keyboard",
-      "name": "【Replace 57435105】Dual-tube X-Shape Keyboard Stand Black",
-      "reason": "no \"mechanical\""
-    },
-    {
-      "pid": "2114912767301447682",
-      "termId": "keyboard",
-      "name": "[Do Not Sell on Amazon]GEP-110 61 Key Keyboard with Piano Stand, Piano Bench, Built In Speakers, Headphone, Microphone, Music Rest, LED Screen, 3 Teaching Modes for Beginners",
-      "reason": "has \"piano\""
-    },
-    {
-      "pid": "2610260605531613000",
-      "termId": "keyboard",
-      "name": "Durable Three-Finger Work Gloves Anti-Slip Mechanical Repair Logistics Handling Protection For Outdoor Sports",
-      "reason": "no \"keyboard\""
-    },
-    {
-      "pid": "2610300647001613200",
-      "termId": "light-strip",
-      "name": "Led Halloween Costume Fur Coat Women's Clothing",
-      "reason": "has \"coat\""
-    },
-    {
-      "pid": "2610300542111630700",
-      "termId": "light-strip",
-      "name": "Smart Wristband Light Luxury Leather Wrist Strap",
-      "reason": "no \"strip\""
-    },
-    {
-      "pid": "2610300251401623400",
-      "termId": "light-strip",
-      "name": "Smart Professional Sports Outdoor Watch",
-      "reason": "no \"strip\""
-    },
-    {
-      "pid": "2116032503683874818",
-      "termId": "light-strip",
-      "name": "105ft Outdoor Christmas Decoration Lights,1000 LED 8 Modes Curtain Fairy Lights with 50 Drops,Plug in,Waterproof,Timer,Memory Function for Christmas Holiday Wedding Party Decorations",
-      "reason": "has \"curtain\""
-    },
-    {
-      "pid": "2116005637287706625",
-      "termId": "light-strip",
-      "name": "999000000LM LED Searchlight Handheld USB Rechargeable Flashlight Torch Light",
-      "reason": "no \"strip\""
-    },
-    {
-      "pid": "2116038555081961474",
-      "termId": "light-strip",
-      "name": "8ft Christmas Inflatable Santa Claus On Sleigh, LED Lighted For Home Indoor Outdoor Garden Lawn Decoration Party Prop",
-      "reason": "no \"strip\""
-    },
-    {
-      "pid": "2610300434301609200",
-      "termId": "robot-vacuum",
-      "name": "Stainless Steel Necklace With 18K Gold Vacuum Plating",
-      "reason": "no \"robot\""
-    },
-    {
-      "pid": "2610300331351619300",
-      "termId": "robot-vacuum",
-      "name": "Stainless Steel Plated 18K Gold Vacuum Plating Ring",
-      "reason": "no \"robot\""
-    },
-    {
-      "pid": "2610300327101625400",
-      "termId": "robot-vacuum",
-      "name": "Stainless Steel 18K Gold Plating Vacuum Electroplating Water Drop Titanium Steel Pendant Necklace",
-      "reason": "no \"robot\""
-    },
-    {
-      "pid": "2610300258171609900",
-      "termId": "robot-vacuum",
-      "name": "Car Vacuum Cleaner With Powerful Suction And A Brushless Motor",
-      "reason": "no \"robot\""
-    },
-    {
-      "pid": "2115676192471072769",
-      "termId": "robot-vacuum",
-      "name": "Bag Vacuum Thermal Black 110W",
-      "reason": "no \"robot\""
-    },
-    {
-      "pid": "2115657411334062081",
-      "termId": "robot-vacuum",
-      "name": "RV Vacuum Breaker Check Valve, Camper RV Black Tank Check Valve 571-VAC-CHK-A",
-      "reason": "no \"robot\""
+      "pid": "2116397379316015106",
+      "termId": "ai-recorder",
+      "name": "【Replace 84785937】41 inch Full-Size Cutaway Acoustic-Electric Guitar Grape Voice Hole Spruce Top Round Back Sunset Color",
+      "reason": "no \"recorder\""
     },
     {
       "pid": "2115708896034291713",
@@ -2572,46 +3123,172 @@
       "reason": "has \"tape\""
     },
     {
-      "pid": "2112616135872413697",
-      "termId": "ai-recorder",
-      "name": "Men Smartwatch Black Round Stainless Steel Bluetooth Call Voice Assistant Sports Fitness Tracker Android IOS",
-      "reason": "no \"recorder\""
+      "pid": "2610310805121605200",
+      "termId": "light-strip",
+      "name": "LED Brake Light",
+      "reason": "no \"strip\""
     },
     {
-      "pid": "2112613289521123329",
-      "termId": "ai-recorder",
-      "name": "Women Smartwatch Silver Round Milanese Strap Bluetooth Call Voice Assistant Fitness Tracker Android IOS",
-      "reason": "no \"recorder\""
+      "pid": "2610310255541603400",
+      "termId": "light-strip",
+      "name": "Mushroom Shape Touch Control Humidifier Colorful LED Night Light",
+      "reason": "no \"strip\""
     },
     {
-      "pid": "2610300542111630700",
-      "termId": "smart-ring",
-      "name": "Smart Wristband Light Luxury Leather Wrist Strap",
-      "reason": "no \"ring\""
+      "pid": "2610310232461634700",
+      "termId": "light-strip",
+      "name": "LED Glow The Birth Of Jesus Arrival Wreath Center Ornaments",
+      "reason": "no \"strip\""
     },
     {
-      "pid": "2610300446291600800",
-      "termId": "smart-ring",
-      "name": "European And American Three-Layer Pearl Tigers Eye Ring",
-      "reason": "no \"smart\""
+      "pid": "2116423350261833730",
+      "termId": "light-strip",
+      "name": "Pickup Only  1-Light Dimmable Integrated LED Pendant 18W",
+      "reason": "no \"strip\""
     },
     {
-      "pid": "2610300442221609500",
-      "termId": "smart-ring",
-      "name": "Stainless Steel Electroplated Agate And Tigers Eye Ring",
-      "reason": "no \"smart\""
+      "pid": "2116364625300815874",
+      "termId": "light-strip",
+      "name": "4-piece set of multi-color solar fairy light string, 330 LED outdoor solar Christmas lights, 8 modes of wired solar flashing light string, suitable for Christmas trees, wedding parties, gardens and co",
+      "reason": "no \"strip\""
     },
     {
-      "pid": "2610300427181614200",
-      "termId": "smart-ring",
-      "name": "Stainless Steel 18K Gold-tone High-end Ring",
-      "reason": "no \"smart\""
+      "pid": "2610310754051629300",
+      "termId": "qi2-power-bank",
+      "name": "Portable Power Bank",
+      "reason": "no \"magnetic\""
     },
     {
-      "pid": "2610300331351619300",
-      "termId": "smart-ring",
-      "name": "Stainless Steel Plated 18K Gold Vacuum Plating Ring",
-      "reason": "no \"smart\""
+      "pid": "2116454348131328001",
+      "termId": "qi2-power-bank",
+      "name": "20000mAh High-capacity Portable Power Bank 120W Ultra Fast Charging LED Digital Display Screen Phone Power Bank",
+      "reason": "no \"magnetic\""
+    },
+    {
+      "pid": "2115721879215484930",
+      "termId": "qi2-power-bank",
+      "name": "20000mAh High-capacity Portable Power Bank 120W Ultra Fast Charging LED Digital Display Screen  Power Bank",
+      "reason": "no \"magnetic\""
+    },
+    {
+      "pid": "2610260852041600500",
+      "termId": "qi2-power-bank",
+      "name": "Portable Fast-charging Power Bank With Cable",
+      "reason": "no \"magnetic\""
+    },
+    {
+      "pid": "2113544347577270274",
+      "termId": "qi2-power-bank",
+      "name": "Mini Portable Charger 4500mAh USB C 20W Fast Charging Power Bank Compact Lightweight Battery Pack With Cable For IPhone 17 16 15 Pro Max Smartphones Travel And Everyday Outdoor Use",
+      "reason": "no \"magnetic\""
+    },
+    {
+      "pid": "2095015785541242882",
+      "termId": "ai-wearable",
+      "name": "AI Smart Glasses With Camera HD Video RecordingAudio To Text Transcription Multimedia Meeting Notes Glasses For Office Work",
+      "reason": "no \"wearable\""
+    },
+    {
+      "pid": "2095052760860303361",
+      "termId": "ai-wearable",
+      "name": "Smart AI Bluetooth Sunglasses Open Ear Audio, Polarized Sun Protection Glasses For Motorcycle Driving Cycling Hands Free Phone Call  Music Playback",
+      "reason": "no \"wearable\""
+    },
+    {
+      "pid": "2095006393857728514",
+      "termId": "ai-wearable",
+      "name": "AI Smart Glasses With 8MP Camera Photo  Video Recording, Live Streaming Video Call Real Time Translation",
+      "reason": "no \"wearable\""
+    },
+    {
+      "pid": "2095043712193171457",
+      "termId": "ai-wearable",
+      "name": "AI Smart Bluetooth Translation Sunglasses Polarized UV Protection Smart Glasses Hands Free Call Comfortable Eyewear For Driving Cycling Outdoor Sports",
+      "reason": "no \"wearable\""
+    },
+    {
+      "pid": "2095038332538294273",
+      "termId": "ai-wearable",
+      "name": "AI Smart Translation Bluetooth Sunglasses Smart Glasses For Cycling Driving Hands Free Call Comfortable Wear Outdoor Sports Sun Glasses",
+      "reason": "no \"wearable\""
+    },
+    {
+      "pid": "2610150838041632800",
+      "termId": "360-camera",
+      "name": "Wildlife Tracking Hunting HD Infrared Night Vision Camera",
+      "reason": "no \"360\""
+    },
+    {
+      "pid": "2107324552017018882",
+      "termId": "360-camera",
+      "name": "KP-D02 Handheld Sports Camera 4K Portable Long Battery Life Built-in Fill Light Factory Direct In Stock",
+      "reason": "no \"360\""
+    },
+    {
+      "pid": "2607270500591607800",
+      "termId": "360-camera",
+      "name": "Outdoor Cycling HD Digital Waterproof Camera",
+      "reason": "no \"360\""
+    },
+    {
+      "pid": "2079091192963047425",
+      "termId": "360-camera",
+      "name": "SQ11 Movement Function Camera Cross-border Camera, Card Insertion Direct Recording, Outdoor Aerial Photography High-definition WiFi Camera",
+      "reason": "no \"360\""
+    },
+    {
+      "pid": "2605180237291621400",
+      "termId": "360-camera",
+      "name": "4K Camera Handheld Gimbal With Motion Stabilization And Face Recognition",
+      "reason": "no \"360\""
+    },
+    {
+      "pid": "2116386014857715714",
+      "termId": "dev-board",
+      "name": "Black Side Running Board fit for Chevy Silverado 1500 Double Cab 1999-13 500LBS",
+      "reason": "no \"development board\""
+    },
+    {
+      "pid": "2115978194995703810",
+      "termId": "dev-board",
+      "name": "Photo Frame Wall Wood Mat Board 13x18cm Natural",
+      "reason": "no \"development board\""
+    },
+    {
+      "pid": "2115997505805692930",
+      "termId": "dev-board",
+      "name": "Photo Frame Wall Wood Mat Board 13x18cm White",
+      "reason": "no \"development board\""
+    },
+    {
+      "pid": "2115978268198891522",
+      "termId": "dev-board",
+      "name": "Photo Frame Wall Wood Mat Board 10x15cm Natural",
+      "reason": "no \"development board\""
+    },
+    {
+      "pid": "2116400076119269378",
+      "termId": "robot-vacuum",
+      "name": "6X Cordless Travel Vacuum Bag Set W Rechargeable Pump for Bedding and Clothing",
+      "reason": "no \"robot\""
+    },
+    {
+      "pid": "2116357032234844161",
+      "termId": "robot-vacuum",
+      "name": "Power Brake Booster Vacuum Pump Replacement For Lincoln MKC MKX MKZ, Land Rover LR2 Discovery, Ford Escape Edge Explorer Focus LR047384",
+      "reason": "has \"replacement\""
+    },
+    {
+      "pid": "2116402442449117185",
+      "termId": "robot-vacuum",
+      "name": "black wireless Automobile Folding Vacuum Cleaner Hand-held High-power Strong Suction Vacuum Cleaner",
+      "reason": "no \"robot\""
+    },
+    {
+      "pid": "2610300434301609200",
+      "termId": "robot-vacuum",
+      "name": "Stainless Steel Necklace With 18K Gold Vacuum Plating",
+      "reason": "no \"robot\""
     },
     {
       "pid": "1413685364425625600",
@@ -2638,70 +3315,28 @@
       "reason": "has \"accessories\""
     },
     {
-      "pid": "4560DCA1-330A-4A6D-B05A-FCA71144B5A0",
-      "termId": "desk-3d-printer",
-      "name": "3D printer accessories mute motherboard",
-      "reason": "has \"accessories\""
+      "pid": "2111388966805491713",
+      "termId": "battery-projector",
+      "name": "4K 5G Projector Smart HD LED WiFi Bluetooth H DMI USB Android Office Home Theater",
+      "reason": "no \"portable\""
     },
     {
-      "pid": "2610300647001613200",
-      "termId": "led-mask",
-      "name": "Led Halloween Costume Fur Coat Women's Clothing",
-      "reason": "has \"halloween\""
+      "pid": "2610140726041604800",
+      "termId": "battery-projector",
+      "name": "M10PLUS Projector  Ultra Clear Home Projector",
+      "reason": "no \"portable\""
     },
     {
-      "pid": "2610300307511626100",
-      "termId": "led-mask",
-      "name": "Universal Wig For Women Suitable For All Face Shapes",
-      "reason": "has \"wig\""
+      "pid": "2610111027381638600",
+      "termId": "battery-projector",
+      "name": "Dedicated 3D Projector For Smartphone Screen Mirroring",
+      "reason": "no \"portable\""
     },
     {
-      "pid": "2116032503683874818",
-      "termId": "led-mask",
-      "name": "105ft Outdoor Christmas Decoration Lights,1000 LED 8 Modes Curtain Fairy Lights with 50 Drops,Plug in,Waterproof,Timer,Memory Function for Christmas Holiday Wedding Party Decorations",
-      "reason": "has \"party\""
-    },
-    {
-      "pid": "2116005637287706625",
-      "termId": "led-mask",
-      "name": "999000000LM LED Searchlight Handheld USB Rechargeable Flashlight Torch Light",
-      "reason": "no \"mask\""
-    },
-    {
-      "pid": "2116038555081961474",
-      "termId": "led-mask",
-      "name": "8ft Christmas Inflatable Santa Claus On Sleigh, LED Lighted For Home Indoor Outdoor Garden Lawn Decoration Party Prop",
-      "reason": "has \"party\""
-    },
-    {
-      "pid": "2115997617991249922",
-      "termId": "dev-board",
-      "name": "Photo Frame Wall Wood Mat Board 18x24cm White",
-      "reason": "no \"development board\""
-    },
-    {
-      "pid": "2115978194995703810",
-      "termId": "dev-board",
-      "name": "Photo Frame Wall Wood Mat Board 13x18cm Natural",
-      "reason": "no \"development board\""
-    },
-    {
-      "pid": "2115997505805692930",
-      "termId": "dev-board",
-      "name": "Photo Frame Wall Wood Mat Board 13x18cm White",
-      "reason": "no \"development board\""
-    },
-    {
-      "pid": "2115978730578964482",
-      "termId": "dev-board",
-      "name": "Photo Frame Wall Wood Mat Board 30x40cm Natural",
-      "reason": "no \"development board\""
-    },
-    {
-      "pid": "2115978268198891522",
-      "termId": "dev-board",
-      "name": "Photo Frame Wall Wood Mat Board 10x15cm Natural",
-      "reason": "no \"development board\""
+      "pid": "2108859798799499266",
+      "termId": "battery-projector",
+      "name": "5G 4K Projector Smart HD LED WiFi Bluetooth H DMI USB Android Office Home Theater",
+      "reason": "no \"portable\""
     },
     {
       "pid": "2096109879133913090",
@@ -2722,7 +3357,7 @@
       "reason": "has \"star projector\""
     }
   ],
-  "rejectedTotal": 628,
+  "rejectedTotal": 589,
   "novelty": [
     {
       "title": "Personalized Embarrassing Books",
